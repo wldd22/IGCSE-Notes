@@ -6,7 +6,7 @@ This collection includes notes for the following IGCSE subjects:
 - Chemistry (Partial content notes)
 - Economics (Complete content notes and partial review questions)
 - Geography (Case studies and partial content notes)
-- Physics (Multiple sets of complete content notes with varying depth/complexity from different sources)
+- Physics (Multiple sets of complete content notes and partial review questions)
 
 Some notes may be incomplete or partially incorrect. While care has been taken to ensure accuracy, these notes may contain unintentional errors; any mistakes are not deliberate and are not the responsibility of the author.
 
