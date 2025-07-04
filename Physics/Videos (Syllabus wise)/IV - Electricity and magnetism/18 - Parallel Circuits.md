@@ -1,0 +1,10 @@
+- **Parallel Circuits**
+	- Contains more than one loop
+	- If a single component breaks or is removed, the circuit continues working
+	- Generally, each loop contains one component
+	- Assuming there is only one component per loop:
+		- All components receive the same p.d.
+			- $V_t = V_1 = V_2 = \cdots$
+		- Current is shared between all components
+			- $I_t = I_1 + I_2 + \cdots$
+	- Resistance decreases as more components are added in parallel

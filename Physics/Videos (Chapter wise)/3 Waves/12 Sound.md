@@ -1,0 +1,28 @@
+- **Sound**
+	- Caused by vibrations
+	- Sound waves travel by vibrations in the air
+		- There is no sound in a vacuum
+	- Ear drums sense vibrations and therefore sounds
+	- **Sound waves**
+		- Longitudinal waves (particles vibrate in the same direction as the wave)
+		- Series of alternating compressions and rarefactions
+		- **Amplitude** - Loudness of the sound
+		- **Frequency** - Pitch of the sound
+	- **Speed of sound (approx.):**
+		- In air: $330m/s$ - $350m/s$
+		- In liquid: $1500m/s$
+		- Changes based on the material, temperature, and humidity (of air)
+- **Ultrasound**
+	- The human ear cannot hear sounds with higher frequencies than $20\ 000Hz$
+	- Some animals use ultrasound to communicate
+	- **Uses:**
+		- **Sonar**
+			- Used to measure distance underwater
+			- **Method:**
+				- Ultrasound wave is sent and the time taken for it to return is recorded
+				- This is used with the speed of sound in water to calculate depth
+		- **Material testing**
+			- Used to detect cracks inside materials
+			- **Method:**
+				- Ultrasound wave is sent through the material repeatedly
+				- The time between returning waves is less when there are cracks

@@ -1,0 +1,25 @@
+- **Force** - Pushes and pulls affecting objects
+	- **Unit:** Newton ($N$)
+	- **Types:**
+		- **Weight** - Gravitational pull between two objects
+			- **Formula:** $\text{Weight}(W)=\text{Mass}(m)\times\text{Acceleration due to gravity}(g)$
+			- Gravitational field strength for earth is approximately $9.8 m/s^2$
+		- **Contact force/solid friction** - Resistive force when two objects are in contact
+		- **Friction** - Two surfaces rubbing each other
+		- **Air resistance/drag** - Friction through air/water
+		- **Upthrust** - Buoyant force
+	- **Effects of unbalanced forces:**
+		- Change the speed of an object
+		- Change the direction of motion of an object
+- **Momentum** - Measure of an object's resistance to changes in motion
+	- **Formula:** $\text{Momentum}(P) = \text{Mass}(m)\times\text{Velocity}(v)$
+- **Impulse** - Change in momentum
+	- **Formula:**
+		- $\text{Impulse}=\text{Force}(F)\times\text{Time}(t)$
+		- $\text{Impulse}=\text{Final momentum}-\text{Inital momentum}$
+		- $\text{Impulse}=(\text{Mass}(m)\times\text{Final velocity}(v))-(\text{Mass}(m)\times\text{Inital velocity}(u))$
+- **Scalar quantity** - Only has magnitude
+- **Vector quantity** - Has magnitude and direction
+- **Newton's laws of motion**
+	- **First law:** A body will remain at rest or move at a constant speed in a straight line unless acted upon by a resultant force
+	- **Second law:** The force acting on an object can be expression by its mass times its acceleration ($\text{Force}(F)=\text{Mass}(m)\times\text{Acceleration}(a)$)

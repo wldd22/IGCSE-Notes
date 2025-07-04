@@ -1,0 +1,16 @@
+- **Geothermal energy** - Thermal energy generated and stored in the earth's crust
+	- Used for:
+		- **Direct heat**
+			- Cheaper
+			- Pump water into the ground to heat it up then pump it back up
+		- **Generating electricity**
+			- Wait till water heats into steam
+			- Steam rises and turns turbines which drive generators to produce electricity
+	- **Advantages**
+		- Only damages the environment very slightly
+		- Doesn't produce pollutants while running
+		- Renewable
+		- Reliable for long periods
+	- **Disadvantages**
+		- Only usable in certain areas
+		- Power plants can be expensive to build

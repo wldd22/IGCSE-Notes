@@ -1,0 +1,507 @@
+## Chapter 16 - Money and banking
+
+- **Money** - Any commodity that can be used as medium of exchange for the purchase of goods or services.
+- **Forms of money:**
+	- **Cash** - Banknotes and coins
+	- **Bank deposits** - Money reserves placed in commercial bank accounts in electronic form
+	- **Central bank reserves** - Money held by the central bank and used by commercial banks to make payments between themselves
+- **Functions of money**
+	- Medium of exchange
+	- Measure of value / Unit of account
+	- Store of value
+	- Standard of deferred payment
+- **Characteristics of money**
+	- Durability
+	- Acceptability
+	- Divisibility
+	- Uniformity
+	- Scarcity
+	- Portability
+- **Bartering** - Swapping items in exchange for other items through a process of bargaining and negotiation.
+	- Requires a double coincidence of wants
+	- No divisibility or portability
+- **Central banks** - The monetary authority that oversee and manage the economy's money supply and banking system.
+	- **Key Functions**:
+		- The sole issuer of banknotes and coins
+		- The government's bank
+		- The banker's bank
+		- The lender of last resort
+- **Commercial banks** - A retail bank that also provides financial services to its customers.
+	- **Primary Functions**:
+		- Accepting deposits
+		- Making advances
+		- Credit creation
+	- **Secondary Functions**:
+		- Collecting and clearing cheques on behalf of their clients
+		- Offering additional financial services such as tax advice, foreign exchange dealings and the buying and selling of shares.
+		- Providing safety deposit boxes for customers to safeguard highly valued possessions, including jewellery and important documents such as wills.
+		- Providing money transfer facilities, such as transferring money to an overseas bank account or to pay various bills, such as telephone, electricity, gas, and water bills.
+		- Offering credit card facilities for the convenience of customers (private individuals and commercial clients).
+		- Offering internet banking facilities such as online bill payments, wired bank transfers between bank accounts, and the online purchase of shares and foreign currencies.
+
+## Chapter 17 - Households
+
+- **Saving** - When a person puts away part of their current income for future spending
+- **Borrowing** - When an individual, firm, or the government takes out a loan, paying it back to the lender over a period of time, with interest payments.
+- Influences on **household spending**:
+	- **Income**
+		- Can be earned mainly from **wages** and **salaries** (return on labour). Also from:
+			- **Interest on savings** (return on capital)
+			- **Rent earned** from leasing property (return on land)
+			- **Dividends** - A share of a company's profits - based on shares owned in a company (return on enterprise)
+			- **Profit earned** from running a business (return on enterprise)
+		- **Disposable income** - Income that can actually be spent.
+			- Income after compulsory deductions such as income tax
+		- Level of spending is proportional to income earned
+		- **Current Expenditure** - Money spend on goods and services consumed within a year
+		- **Capital Expenditure** - Money spend on fixed assets (items owned for more than 12 months)
+		- **Expenditure patterns** for:
+			- **Low** income group:
+				- Spends most of their income on necessities (like food, clothing)
+				- Usually low savings due to lesser disposable income
+				- Borrow to fund expenditure on capital items (like cars, furniture)
+				- In extreme circumstances, people may borrow to fund **current expenditure**
+				- Banks are less likely to lend money due to higher risk
+			- **Medium** income group:
+				- Spends a lower portion of income on necessities. Can spend on some luxuries
+				- Able to save some money
+				- May borrow money to fund expenditure on capital items
+				- Use credit cards to pay for both **capital and current expenditure**.
+				- Usually take out a mortgage (long-term secured loan) to purchase a home.
+			- **High** income group:
+				- Spends the smallest proportion of income on necessities
+				- Purchases luxury goods and services
+				- Smaller risk of not being able to repay loans
+				- Less need to borrow money
+		- **Wealth** = Assets (what you own) - Liabilities (what you owe)
+			- **Positive wealth effect** - When the value of assets increases
+				- May increase spending
+			- **Negative wealth effect** - When the value of assets decreases
+				- May decrease spending
+		- **Conspicuous consumption** - When people purchase goods and services that they feel increase their status or image.
+	- **Interest rates**
+		- **Increase** in interest rates (mostly) causes:
+			- Decrease in spending (goods and services are more expensive)
+			- Decrease in borrowing (the interest on loans is more expensive)
+			- Increase in saving (higher return on investments)
+	- **Confidence levels**
+		- When consumers have less confidence in the future of an economy:
+			- Spending decreases
+			- Saving increases
+		- When consumers have higher confidence in the future of an economy:
+			- Spending, borrowing, and saving increases
+	- **Inflation**
+		- An increase in inflation reduces the purchasing power of individuals causing:
+			- Reduced spending
+			- Less saving
+			- More borrowing
+		- Decrease in inflation causes:
+			- Increased spending
+			- Increased saving
+			- Decreased borrowing
+	- **Age**
+		- Young people are more likely to earn lower incomes and spend more.
+		- Older people are more likely to save more and spend less.
+	- **The size of households**
+		- Larger households consume more (more spending)
+		- Smaller households consume less (less spending)
+- Influences on **household saving**:
+	- Age of a person
+	- Attitude to saving
+	- Consumer and business confidence
+	- Interest rates
+	- Income levels
+- Influences on **household borrowing**
+	- Interest rates
+	- Confidence levels
+	- Availability of funds
+	- Credit cards
+	- Store cards
+	- Wealth
+
+## Chapter 18 - Workers
+
+- Factors affecting choice of occupation:
+	- **Wage factors**:
+		- Financial rewards received by workers in exchange for their labour services.
+		- Different types of financial payment methods:
+			- Wages - Time based (hourly, daily, or weekly)
+			- Salary - Monthly at a fixed rate (irrespective of the amount of work done)
+			- Piece rate - Fixed amount paid per item produced or sold
+			- Commission - A percentage of the value of products or services sold
+			- Bonus - Additional lump sum of money paid during the year (usually dependant on performance)
+			- Profit-related pay - Additional payment based on the amount of profits made by a firm
+			- Share options - Receiving shares in the firm to give them incentive to work hard so the firm is profitable
+			- Fringe benefits (or perks) - Additional benefits (with monetary value)
+	- **Non-wage factors**:
+		- Level of challenge
+		- Career prospects
+		- Level of danger involved
+		- Length of training required
+		- Level of education required
+		- Recognition in the job
+		- Personal satisfaction gained from the job
+		- Level of experience required
+- **Wage determination**
+	- Determined by the interaction of the **demand for labour** and the **supply for labour**.
+	- **Demand for labour**
+		- The number of workers that firms are willing and able to employ at a given wage rate.
+		- It is a **derived demand** (Not demanded for itself but for the goods and services it is used to produce)
+		- **Demand for labour ($D_L$) curve**
+			- Downward sloping (because firms are able to hire more workers when the wage rate is lower)
+		- Factors that affect the demand for labour:
+			- The level of total demand in the economy
+			- The productivity of labour
+			- The cost of labour
+	- **Supply for labour**
+		- Everyone in an economy who is of working age and is both willing and able to work at a specific wage rate.
+		- **Supply for labour ($S_L$) curve**
+			- Upward sloping (because people are more attracted by higher wages)
+			- It is possible for the $S_L$ curve to be **backward bending**
+				- Occurs when wage rates rise to a high enough point to allow people to work less and enjoy more leisure hours
+		- Depends of the following factors:
+			- **Labour force participation rate** - Percentage of the working population that is working, rather than unemployed. Influenced by:
+				- The number of full-time and part-time workers in the labour force
+				- The age distribution of the workforce
+				- The official retirement age of the country
+			- **Availability and level of welfare benefits**
+			- **Changing social attitudes**
+			- **Geographical mobility** - The willingness and ability of a person to relocate for work. May decrease due to:
+				- Family ties and related commitments
+				- Costs of living
+			- **Occupational mobility** - The extent to which a person is able to change between jobs
+	- **Equilibrium wage rate** - The wage rate where the demand for labour is equal to the supply of labour
+	- **Relative bargaining power** - The ability of workers to achieve higher wages depends partly on their ability to negotiate and bargain with their employers. Influenced by:
+		- **Trade unions** (See [[Subjects/Economics/Notes/Section 3 - Microeconomic decision makers#Chapter 19 - Trade Unions|chapter 19]])
+		- **Age and experience**
+		- **Level of education**
+	- **Minimum wage** - Lowest legal amount any firm can pay its workers (set by the government)
+		- Advantages:
+			- Workers are not exploited by employers and receive a reasonable wage for an hour's work
+			- More incentive to work for the unemployed
+			- Workers earn more money overall and may increase the average consumption in an economy
+		- Disadvantages:
+			- Workers who earn more than minimum wage may want higher wage rates to maintain the wage difference between them and workers who earn minimum wage. This also causes higher wage bills for firms and demand for labour decreases
+			- Unemployment in the economy may increase because firms face higher wage bills and demand for labour decreases
+- **Reasons for differences in earnings**:
+	- **Skilled and unskilled workers** - Skilled workers mostly earn more than unskilled workers
+		- Skilled workers have higher demand and lower supply while unskilled workers have lower demand and higher supply.
+		- Skilled workers are more inelastic in supply than unskilled workers
+	- **Primary, secondary, and tertiary sector workers**
+		- Primary sector workers tend to earn the least wages in the economy. This is because:
+			- Their work is usually more unskilled
+			- The output of these industries usually has a low sales value
+		- Secondary and tertiary sector professions tend to have higher earnings. This is because:
+			- Their work usually requires a higher level of education and experience
+	- **Male and female workers**
+		- In all countries, there is a noticeable difference between the average wages of male and female workers. This is because:
+			- More women work in part-time jobs than men, so earning are lower on average
+			- Women may take career breaks to have children and therefore miss out on promotional opportunities
+			- Women may accept low-paid and part-time jobs where hours are flexible in order to allow childcare arrangements
+			- Women may face discrimination at work
+	- **Private and public sector workers**
+		- Typically, workers in the public sector earn more than workers in the private sector. This is because:
+			- The main goal of private individuals and firms is profit maximisation
+		- Private sector jobs are usually less secure and aren't accompanied by a pension in retirement.
+- **Division of labour and specialisation of labour**
+	- **Specialisation of labour** - Workers being expert in a particular profession
+	- **Division of labour** - Workers being expert in a particular production process.
+	- Advantages:
+		- Productivity and efficiency increases
+		- Quality of the product or service increases
+		- Earning potential may increase as the workers are more skilful
+	- Disadvantages:
+		- Work may become repetitive and boring
+		- Workers may become alienated
+		- The production process may become overspecialised
+		- The workers may become deskilled in other areas
+
+## Chapter 19 - Trade Unions
+
+- **Trade union / Labour union** - Organisation that aims to protect the interests of its worker members
+	- Workers pay a **subscription fee** (usual annual) to become members
+	- **Employers** and **employees** have different aims and objectives:
+		- Employers may want to:
+			- Maximise profits
+			- Minimise costs
+			- Maximise sales
+		- Employees may want to:
+			- Maximise wages/salaries
+			- Work in a safe and healthy environment
+			- Have good terms and conditions at work
+			- Maximise their non-wage benefits
+			- Have job security at work
+		- There is usually a conflict between the aims of employers and employees.
+	- **Types of trade unions**
+		- **Craft unions** - Organised by skill/craft
+		- **Industrial unions** - Organised by industry
+		- **White collar unions** - Recruit professional, administrative, and clerical staff (salaried workers) and other non-manual workers
+		- **General unions** - They accept anyone and therefore usually have a large membership of unskilled workers.
+	- **Role of trade unions in the economy**
+		- **Primary role** - Protect the interests of its members
+		- Other roles:
+			- **Bargaining with employers** for pay rises and better terms and conditions
+			- **Ensuring equipment at work is safe to use** (supported by health and safety legislation) and that workers are given sufficient training to enable them to perform their role at work safely
+			- **Ensuring members are given legal advice** when necessary
+			- **Giving support to members** when they are made redundant
+			- **Providing financial and legal support to workers** who may have been unfairly dismissed or disciplined
+			- **Persuading the government to pass legislation in favour of workers**, such as legislation covering minimum wages, maximum working hours, pension rights and the retirement age.
+		- **Collective bargaining** - Process of trade union representatives negotiating on behalf of their worker members with employer representatives for better pay and conditions.
+		- Claims for higher wages is usually based on one of these factors:
+			- A rise in the cost of living due to inflation
+			- Workers in comparable occupations who have received a wage increase 
+			- Increased profits of the firm and industry as a whole
+			- An increase in the productivity of labour
+		- **Industrial action** - Measures taken by trade union members as a result of major disagreements or disputes with their employers.
+			- Types of industrial action:
+				- **Strike** - Trade union members refuse to work
+				- **Work-to-rule** - Trade union members work to fulfil the minimum requirements of their job, literally, and do not go beyond what is written in their employment contracts
+				- **Go-slow** - Trade union members complete their work very slowly
+				- **Sit-in** - Trade union members turn up to work and occupy the premises but do not undertake their normal work
+		- **Factors affecting the strength of trade unions** - Mainly the number of members and the degree of the their unity
+			- **Possible reasons for an increase in the number of members:**
+				- Growth in manufacturing jobs (The manufacturing industry is often unionised as workers typically receive low pay and have poor working conditions)
+				- A widening wealth gap and higher costs of living
+			- **Possible reasons for a decrease in the number of members:**
+				- Government legislation to reduce trade union influence
+				- Decline in manufacturing jobs
+				- Growth in part-time employment (Part-time workers are less likely to join a trade union)
+				- A growing number of firms independently agreeing to fairer terms and conditions of employment
+				- Increase in unemployment
+				- Increase in employment in small firms (It is more difficult to organise trade unions within such organisations)
+				- Increase in the number of self-employed people (people who work for themselves and not for a firm), and who therefore cannot be trade union members
+	- **Advantages of trade unions for an economy**
+		- Disputes between employers and employees are usually solved harmoniously and efficiently
+		- They cause overall productivity to increase (as workers end up having better pay and working conditions)
+		- They negotiate with the government to introduce or increase the minimum wage (increasing the standards of living in the economy)
+		- They reduce conflicts creating higher motivation in the workforce
+		- They offer legal support and advice to workers who may have lost their jobs or be facing the threat of redundancies (job losses)
+	- **Disadvantages of trade unions for an economy**
+		- Strikes can cause serious disruption to firms and the wider economy
+		- Trade union demands for better pay and conditions may increase firm production costs and therefor reduce profits
+
+## Chapter 20 - Firms
+
+- **Classification of firms**
+	- **Economic sector**
+		- **Primary sector** - Firms that extract raw materials from the earth
+		- **Secondary sector** - Firms that manufacture goods, or construct buildings, roads, and bridges
+		- **Tertiary sector** - Firms that provide services to the general public and other firms.
+		- Firms cannot operate without using goods and services from all three sectors of industry to make and sell its goods or services to the final customer. This is called **Interdependence**
+	- **Public and private sectors**
+		- **Private sector** - Owned by private individuals and owners
+			- Main aim is to own profit
+			- Types:
+				- **Sole trader** (or sole proprietor) - Owned and controlled by a single person
+				- **Partnership** - Owned by 2 to 20 people with share ownership and risk-taking
+				- **Private limited company** - Owned by shareholders who are unable to buy or sell shares without the consent of other shareholders
+				- **Public limited company** - Owned by shareholders who can openly and freely buy or sell shares on a stock exchange
+		- **Public sector** - Owned by the government
+			- Main aim is to provide a service to the general public
+	- **Relative size**
+		- Methods to measure relative size of a firms:
+			- **Number of employees**
+			- **Market share** - The firm's sales revenues as a proportion of the industry's sales revenue.
+			- **Market capitalisation of a firm** - Stock market value of a company (Total number of shares multiplied by the current share price)
+			- **Sales revenue of a firm**
+- **Small firms**
+	- Reasons small firms co-exist with large firms:
+		- They may be competing with supermarkets by offering unique items like specialty cheeses and wines.
+		- They may be the only local seller in remote areas.
+		- Offering more personal shopping experiences compared to a self-service style experience at large supermarkets.
+		- Quick adaption to consumer taste changes
+	- **Advantages:**
+		- Lesser legal formalities and start up costs are lower
+		- (For sole traders) The owner receives all of the profits made (So there is an incentive to work hard)
+		- (For sole traders) They don't have to take orders from others, they have flexibility in decision making, and have higher self-esteem from being successful.
+		- Likely to know customers better (and on a personal level)
+		- Easier to manage and control; unaffected by **diseconomies of scale** (see ahead for more detail)
+	- **Disadvantages:**
+		- Limited start up capital
+		- Large risk of business failure
+		- Success depends almost completely on the abilities and commitment of the owners.
+		- Suffer from lack of continuity (Owner may go on holiday or become sick)
+		- Unable to exploit **economies of scale** (see ahead for more detail)
+- **Types of growth of firms**
+	- **Internal growth / Organic growth** - Expansion using the firm's own resources
+	- **External growth / Inorganic growth** - Expansion involving another organisation, such as through one of the following:
+		- **Takeover** - A firm is taken over by another firm
+		- **Franchise** - An individual or firm purchases the licence from another firm to trade using the name of the parent company
+		- **Merger** - Two or more firms join together to form one firm
+			- **Horizontal merger** - Two or more firms from the same economic sector of industry join together
+				- **Benefits:**
+					- Having higher market share
+					- Gaining skilled employees from each other
+					- Operating with fewer employees (for example, there is no need to hire two finance departments)
+					- Taking advantage of economies of scale
+				- **Drawbacks:**
+					- Duplication of resources causing job losses. Job losses can cause demotivation which may cause a fall in productivity
+					- There may be increasing costs arising costs from diseconomies of scale
+					- New firm may suffer from culture clashes between the merged businesses
+			- **Vertical merger** - Two or more firms from different economic sectors of industry join together
+				- **Backward vertical merger** - Occurs when:
+					- A firm from the secondary sector merges with a firm from the primary sector
+					- A firm from the tertiary sector merges with a firm from the primary or secondary sector.
+					- **Benefits:**
+						- The firm in the secondary sector has control over the quality of raw materials with which it is supplied
+						- The price of raw materials fall as the manufacturer does not have to pay an external firm for the raw materials
+					- **Drawbacks:**
+						- Total costs increase as more land, labour and capital resources may be required for a firm in the primary sector
+						- Transport costs increase for the merged firm as raw materials were previously delivered by external suppliers
+				- **Forward vertical merger** - Occurs when:
+					- A firm from the secondary sector merges with a firm from the tertiary sector
+					- A firm from the primary sector merges with a firm from the secondary or tertiary sector.
+			- **Conglomerate merger** - Two or more firms from unrelated areas of business join together to create a new firm
+- **Economies and diseconomies of scale**
+	- **Economics of scale** - Cost-saving benefits of large-scale operations, which reduce average costs of production
+		- **Internal economies of scale** - Cost savings that arise from within the business as it grows
+			- **Purchasing (bulk-buying) economies of scale** - When the cost of raw materials falls when they are bought in large quantities
+			- **Technical economies of scale** - When large firms purchase expensive pieces of machinery and automated equipment for the production process
+			- **Financial economies of scale** - When firms are able to borrow money from banks more easily because they are perceived by financial institutions to be more risky. Large firms also have greater values of assets, which can act as security for loans and mortgages.
+			- **Managerial economies of scale** - When firms have the resources to employ specialist managers to undertake functions within a firm
+			- **Risk-bearing economies of scale** - When firms produce a range of products and operate in many locations. This diversity spreads risks
+			- **Research and development (R&D) economies of scale** - When firms are able to fund R&D and can therefore be innovative
+			- **Marketing economies of scale** - When firms have large advertising budgets, so can spend large amounts of money promoting their products
+		- **External economies of scale** - Economies of scale that arise from factors outside the firm
+			- Proximity to related firms
+			- Availability of skilled labour
+			- Reputation of the geographical area
+			- Access to transportation networks
+	- **Diseconomies of scale** - When a firm gets too large, its average costs of production start to rise as output increases. (The disadvantages of growth start to outweigh the advantages)
+		- Causes of diseconomies of scale:
+			- **Communication issues**
+			- **Unsuccessful merger due to a clash of cultures**
+				- In some cases, it may be beneficial to **demerge** (When two previously merged firms decide to break up and become two separate firms again)
+			- **Requirement for more employees or a new factory to accommodate the increased level of production.**
+			- **Lose of motivation due to workers not feeling part of a large firm** (lack of importance/contribution)
+			- **Operating in areas with less expertise causing costs to increase**
+
+## Chapter 21 - Firms and production
+
+- **Factors of production** (See [[Subjects/Economics/Notes/Section 1 - The basic economic problem#Chapter 2 The factors of production|chapter 2]] for details)
+	- Land - Natural resources
+	- Labour - Physical and mental human input
+	- Capital - Manufactured goods
+	- Enterprise - The ideas (and the people who have them) to combine the other three factors of production in pursuit of profit
+- **Derived demand** - Where a factor of production isn't demanded for its own sake, but for the goods and services it is used to produce.
+- **Demand for factors of production** - Depends on:
+	- Derived demand
+	- Cost
+	- Quantity (or availability)
+	- Productivity (see ahead for more detail)
+- **Labour-intensive and capital-intensive production**
+	- **Labour-intensive production** - When the cost of labour is proportionately higher than the cost of other factors of production
+		- Examples: Accountancy, real estate services, tourism
+		- **Advantages**
+			- Suitable for highly customised products (like tailor-made suits and wedding gowns)
+			- Allows customers to receive a more personalised experience
+			- Quality of the product may be higher if workers are skilled
+			- More flexible (Temporary workers can be hired during peak trading seasons)
+		- **Disadvantages**
+			- Can be very expensive
+			- Skilled and experience workers result in higher costs of production
+	- **Capital-intensive production** - When the cost of capital is proportionately higher than the cost of other factors of production
+		- Examples: Car manufacturing, soft drink production, oil extraction
+		- **Advantages**
+			- Easier mass production
+			- Relatively low unit costs of production
+			- Reduces human error in the production process
+			- Potential cost savings in the form of technological economies of scale (See [[Subjects/Economics/Notes/Section 3 - Microeconomic decision makers#Chapter 20 - Firms|chapter 20]] for more details)
+		- **Disadvantages**
+			- Higher set-up costs (causing a higher barrier to entry - see [[Subjects/Economics/Notes/Section 3 - Microeconomic decision makers#Chapter 23 - Market structure|chapter 23]] for more details)
+			- More servicing and maintenance costs
+			- Replacement costs (when equipment becomes outdated or in need of upgrading)
+	- Choosing between capital- and labour-intensive production:
+		- **Cost of labour compared to cost of capital** - Capital-intensive production is better if labour costs are high
+		- **Size of the market** - Labour-intensive production is better for smaller markets or for more personalised services. (like a private tutor, or counsellor)
+		- **The firm's objectives** - Firms will choose based on which will maximise profit for them
+- **Production** - The total output of goods and services in the production process
+- **Productivity** - Measure of the degree of efficiency in the use of the inputs in the production process (Ratio: The value of output compared to the cost of the factors of production)
+	- **Labour productivity** - Efficiency of the workforce in terms of output per worker
+	- **Capital productivity** - Efficiency of the machinery (capital) in terms of output per machine hour
+	- Higher productivity leads to:
+		- Economies of scale
+		- Higher profits
+		- Higher wages
+		- Improved competitiveness
+		- Economic growth
+	- **Influences on productivity**
+		- **Investment** - Expenditure on physical capital
+		- **Innovation** - Commercialisation of new ideas and products
+		- **Skills and experience** - The quantity and quality of labour
+		- **Entrepreneurial spirit** - Willingness and ability of entrepreneurs to take risks in the pursuit of profit (the quality of enterprise)
+		- **Competition** - Rivalry creates an incentive for firms to be more productive
+
+## Chapter 22 - Firms' costs, revenue and objectives
+
+- **Costs of production** - A firm's expenditure in the process of producing goods and/or providing services
+	- **Examples:**
+		- Wages and salaries paid to employees
+		- Rent paid to land owners
+		- Advertising expenses
+		- Purchases of raw materials and components from suppliers
+		- Utility bills for telephone, gas, and electricity services
+		- Dividend payments to shareholders
+		- Taxes paid to the government based on the profits
+	- **Fixed costs (FC)** - The costs a firm has to pay irrespective of how much it produces or sells
+		- Fixed cost line - Flat (the costs do not change based on the output)
+	- **Variable costs (VC)** - The costs that change as the level of output changes
+		- Variable cost line - Starts at origin and slopes upwards (when there is no output, no variable costs are incurred)
+	- **Total cost (TC)** - Sum of the all fixed and variable costs of production
+		- Total cost line - Starts above origin and slopes upwards (when there is no output, fixed costs still need to be paid)
+	- **Average fixed costs (AFC)** - Fixed cost per unit of output
+	- **Average variable cost (AVC)** - Variable cost per unit of output
+	- **Average total cost (ATC)** - Total cost per unit of output
+- **Revenue** - Money payable to a firm from the sale of its goods and services
+	- **Total revenue (TR)** - Aggregate amount of money a firm receives from selling goods and services
+		- $\text{total revenue} = \text{price} \times \text{quantity sold}$
+	- **Average revenue (AR)** - Typical price received from a sale of a good or service
+		- $\text{average revenue} = \text{total revenue} \div \text{quantity sold}$
+- **Objectives of firms**
+	- Survival
+	- Social welfare
+	- Growth
+	- Profit maximisation
+- **Profit** - Positive difference between a firm's total revenue and its total cost of production. (Profit = TR - TC)
+
+## Chapter 23 - Market structure
+
+- **Market structure** - Refers to the key characteristics of a particular market
+	- These include:
+		- The number and size of firms in the market
+		- The degree and intensity of price and non-price competition
+		- The nature of **barriers to entry** (Obstacles that prevent firms from entering a market)
+	- The two extreme market structures are competitive markets and monopoly markets
+- **Competitive market** - Market structure with an immense degree of competition
+	- Many firms in the industry (all without very significant market power)
+	- The large number of firms impacts:
+		- **Price**:
+			- Firms in competitive markets are **price takers** (Firms that set their price according to the market price, rather than determining their own prices)
+			- Prices are determined by market forces of demand and supply, not by the firms themselves
+		- **Quality**:
+			- In highly competitive markets, firms often produce **homogeneous** products (e.g., bananas, strawberries)
+			- Little focus on quality as a form of product differentiation
+		- **Choice**:
+			- Firms may focus on **differentiated** products using branding, design, colour, and quality
+			- Successful firms use slogans to improve competitiveness
+		- **Profit**:
+			- Buyers and sellers have easy access to product and price information
+			- Many rivals in the industry lead to relatively low profits for each firm
+- **Monopoly markets** - Market structure where there is only one main supplier of a good or service
+	- **Pure monopoly** - When only one firm supplies the whole market.
+	- These firms are **price makers / price setters** (Firms that set their own price as they have the market power to do so)
+	- **Characteristics:**
+		- **Single supplier** - A monopolist is the sole supplier of a product in the market
+		- **Price maker** - The monopolist has significant market power and controls enough of the market supply to be able to charge higher prices
+		- **Imperfect knowledge** - A monopolist is able to protect its position as customers and rivals have imperfect knowledge, partly as a result of the monopolist’s ability to protect its trade secrets
+		- **High barriers to entry** - The monopolist can only remain so if in the long run there are very high barriers to entry
+	- **Advantages**
+		- Large economics of scale
+		- Ability to invest in innovation
+		- Eliminating wasteful competition
+	- **Disadvantages**
+		- Inefficient in resource allocation
+		- Demand becomes price inelastic due to a lack of substitutes
+		- Monopolists can charge unnecessarily high prices due to high barriers of entry
+		- Imperfect knowledge means customers may not necessarily make rational choices
+		- Less incentive to innovate due to lack of competition

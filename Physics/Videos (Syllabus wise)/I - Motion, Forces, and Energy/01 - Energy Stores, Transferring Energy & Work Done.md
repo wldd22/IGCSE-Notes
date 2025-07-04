@@ -1,0 +1,24 @@
+
+- **Energy**
+	- Energy is never created or destroyed (*Law of Conservation of Energy*)
+	- It is only transferred between different forms and objects
+	- An object's energy is stored in one of its energy stores
+	- Energy can be transferred from one object to another
+		- **Mechanically**
+		- **Electrically**
+		- **By heating**
+		- **By radiation** (like light or sound waves)
+- **System** - A collection of matter
+	- Energy is transferred between different objects and forms
+	- **Outside world** - All the matter outside the system
+	- **Open system**
+		- Matter may exchange energy or matter with the outside world
+		- May lose or gain energy or matter to and from the outside world
+	- **Closed system**
+		- Separate from the outside world
+		- Neither matter nor energy can enter or leave
+		- Energy may be transferred within the system
+		- Overall energy remains constant
+- **Work done** (Energy transferred)
+	- **Mechanical** - Using a force to move an object
+	- **Electrical** - When current flows

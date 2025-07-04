@@ -1,0 +1,17 @@
+- **Magnetic field around a wire**
+	- Current travelling in a wire forms a magnetic field around it
+	- Coiling up the wire concentrates the field
+		- This is used in solenoids
+	- **Right hand rule** (thumbs up)
+		- Thumb represents direction of current
+		- Other fingers represent direction of magnetic field around wire
+- **Solenoid**
+	- Field lines are close together at the poles
+	- Inside the coil, field lines are parallel (uniform field)
+	- Polarity is reversed when current is reversed
+- **Fleming's left hand rule**
+	- **Hand position:** Thumb upwards, index finger forward, middle finger rightward
+	- All fingers are perpendicular to each other
+	- **Thumb** - Motion
+	- **Index finger** - Magnetic field
+	- **Middle finger** - Current

@@ -1,0 +1,30 @@
+- **Energy** - Energy is the capacity to do work or cause change in a system through various forms
+	- **Energy stores**
+		- **Types:**
+			- **Kinetic energy** - Energy stored in a moving object
+				- **Formula:** $K.E.=\dfrac{1}{2}\times mv^2$
+					- $K.E.$ = Kinetic Energy
+					- $m$ = Mass
+					- $v$ = Velocity
+			- **Gravitational potential energy** - Energy stored in an object raised up against the force of gravity
+				- **Formula:** $G.P.E.=mGh$
+					- $G.P.E.$ = Gravitational Potential Energy
+					- $m$ = Mass
+					- $G$ = Acceleration due to gravity
+					- $h$ = Height
+			- **Chemical energy** - Energy stored in the bonds between atoms that can be released with chemical reactions
+			- **Nuclear energy** - Energy stored in nuclear fuels
+			- **Elastic energy** - Energy stored by an object being stretched or squashed in an elastic way
+			- **Internal energy** - The total kinetic and potential energy stored
+	- **Energy transfers**
+		- **Types:**
+			- **Thermal energy** - Energy transferred from a hotter place to a colder place due to the difference in temperature
+			- **Electrical energy** - Energy derived as a result of movement of electrically charged particles (usually electrons)
+		- **Methods of transferring energy:**
+			- Using a force
+			- Using heat
+			- Using radiation
+			- Using electric current
+- **Law of Conservation of Energy** - Energy cannot be created or destroyed; it can only be stored or transferred from one form to another
+- **Energy efficiency** - The fraction of energy supplied that is usefully transferred
+	- **Formula:** $\text{Efficiency}=\dfrac{\text{Useful energy output}}{\text{Total energy output}}$

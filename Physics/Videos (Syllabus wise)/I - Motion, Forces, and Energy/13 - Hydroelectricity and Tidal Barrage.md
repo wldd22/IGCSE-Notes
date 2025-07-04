@@ -1,0 +1,22 @@
+- **Hydroelectric dams and Tidal barrages**
+	- A large dam with a higher water level on one side
+	- **Reservoir** -  The water collected in a dam
+	- The water in the reservoir has a large amount of g.p.e. (which can be converted into electricity)
+		- The force of the water being released from the reservoir turns turbine blades in the dam and they generate electricity using generators
+		- After being released, the water flows back into the river on the other side
+	- **Advantages**
+		- Large amounts of energy produced
+		- No pollution
+		- Running costs are low
+		- Work on large and small scales
+		- Reliable sources of electricity
+		- (Hydroelectric dams) can provide an immediate response to an increased demand of energy
+	- **Disadvantages**
+		- Big impact on the surrounding impact
+		- May stop boats and fish from traveling across the river
+		- Initial setup is expensive
+		- (Hydroelectric dams) often flood huge areas
+	- **Hydroelectric dam**
+		- Water from upstream is trapped on one side of the dam
+	- **Tidal barrages**
+		- Tides are used to trap water on one side of the dam

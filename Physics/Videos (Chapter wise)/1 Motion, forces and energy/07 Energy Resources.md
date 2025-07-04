@@ -1,0 +1,63 @@
+- **Types of energy sources**
+	- **Renewable energy**
+		- **Types:**
+			- **Solar**
+				- A **solar panel** captures the sun's rays and converts some of the energy into electric energy
+				- **Solar panel** - Made up of solar cells that convert sunlight to electricity
+				- **Advantages:**
+					- Low maintenance cost
+					- Useful in remote locations
+					- Convenient in hotter places
+				- **Disadvantages:**
+					- Unreliable (reliant on sunlight)
+					- Large area is needed
+					- Expensive setup
+			- **Wind**
+				- A **wind turbine** spins due to the wind and generates electricity
+				- **Advantages:**
+					- Low maintenance cost
+				- **Disadvantages:**
+					- Requires large area
+					- Unreliable (reliant on wind)
+					- Noise pollution
+					- Expensive
+			- **Hydroelectric**
+				- Water stored behind a dam is released to spin turbines
+				- **Advantages:**
+					- Electricity can be generated as per demand
+				- **Disadvantages:**
+					- Expensive setup and maintenance
+					- Ruins some natural habitats
+			- **Biomass**
+				- Organic matter (like wood and biogas) is burnt to produce heat
+				- **Advantages:**
+					- Relatively cheap
+					- Accessible
+				- **Disadvantages:**
+					- May cause air pollution
+					- Can lead to deforestation
+			- **Wave**
+				- Kinetic energy from waves are used to generate electricity
+				- **Advantages:**
+					- Convenient in coastal regions
+				- **Disadvantages:**
+					- Impossible in lack-locked regions
+					- Unreliable (depends on wave height and speed)
+			- **Geothermal**
+				- Uses the heat in the interior of the earth to generate electricity
+	- **Non-renewable energy**
+		- **Types:**
+			- **Fossil fuels (Coal, Oil, Natural gas)**
+				- Dead trees and animals millions of years ago slowly get compressed under sediment and form coal after long periods of time
+				- **Advantages:**
+					- Easily accessible
+				- **Disadvantages:**
+					- Bad for the environment (releases carbon dioxide/sulphur dioxide)
+			- **Nuclear fuels**
+				- Radioactive decay of nuclear materials is sped up to release energy faster in a process called nuclear fission
+				- **Advantages:**
+					- Relatively cheap
+					- Concentrated resource
+				- **Disadvantages:**
+					- Expensive initial cost
+					- Very dangerous power stations

@@ -1,0 +1,14 @@
+- **Fossil fuels** - Fuel made from organisms living millions of years ago
+- **Biofuel** - Fuel made from recently living organisms
+	- Generally from plants or algae
+	- Burning them releases carbon dioxide
+		- However, they are considered carbon neutral because the carbon released is equal to the carbon absorbed while the living organisms were growing
+		- No overall release of carbon dioxide
+	- **Advantages**
+		- Renewable
+		- Cheap to make
+		- Easy to transport
+		- Can be mixed with fossil fuels
+	- **Disadvantages**
+		- A location is needed to grow the plants
+		- Harvesting, processing, and transport of the plants and fuel require energy

@@ -1,0 +1,11 @@
+- **Thermal expansion** - A substance expanding when the temperature rises
+	- **Bimetallic strip** - Two strips of metal stuck together
+		- When heating, one side expands more than the other causing the strip to curve
+- **Specific heat capacity** - The amount of energy required to raise the temperature of $1kg$ of a substance by $1\degree C$
+	- **Formula:** $c=\dfrac{\Delta E}{m\Delta \theta}$, $E=mc\theta$
+		- $c$ = Specific heat capacity ($J/kg\degree C$)
+		- $E$ = Energy ($J$)
+		- $m$ = Mass ($kg$)
+		- $\theta$ = Temperature change ($\degree C$)
+	- **Unit:** $J/kg\degree C$
+	- **Of water:** 4200 $J/kg\degree C$ (relatively high)

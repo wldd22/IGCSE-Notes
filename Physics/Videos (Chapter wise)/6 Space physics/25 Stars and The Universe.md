@@ -1,0 +1,30 @@
+- **The sun**
+	- Medium mass star
+	- **Composed of:**
+		- 75% Hydrogen
+		- 24% Helium
+		- 1% Other elements
+	- **Releases electromagnetic waves**
+		- 40% Visible light
+		- 50% Infrared radiation
+		- 10% Ultraviolet light
+- **Stars** - Celestial bodies that emit their own light and appear to shimmer
+	- **Stable star** - A star which is balanced by inward gravitational force and outward radiation pressure, not collapsing, or expanding
+		- Sustained by **nuclear fusion** (nuclei joining together)
+- **Galaxy** - Cluster of solar systems held together by gravity
+- **The Milky Way** - The galaxy containing our solar system
+	- About 200 billion stars
+- **Universe** - Consists of billions of galaxies
+- **Doppler effect** - Change in frequency of a wave (like sound or light) when the source of the wave is moving in relation to the observer
+	- Used to calculate the speed of galaxies moving away from or toward us
+	- In light, causes red shift
+	- **Red shift** - The shift in electromagnetic radiation towards longer frequencies (redder colours), when objects are moving away
+- **The Big Bang Theory**
+	- The theory that the universe started a single point and expanded from there
+- **Hubble's law**
+	- Distant galaxies are moving away from Earth with a speed, v, that is proportional to their distance, d, from Earth
+	- **Formula:** $v = H_0d$
+		- $v$ - Speed
+		- $H_0$ - Hubble constant (approximately equal to $2.2\times 10^18\text{ per second}$)
+		- $d$ - Distance
+	- **Estimate for the age of the universe:** $\dfrac{1}{H_0}$

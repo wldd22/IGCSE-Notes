@@ -1,0 +1,62 @@
+- **Radioactive substance** - Substance that decays by emitting radiation
+- **Hazards of radiation**
+	- **Contamination** - When a radioactive substance is ingested, the person is contaminated and it can be very dangerous or fatal
+	- **Irradiation** - When radiation or a radioactive substance hits a person, it gives them a dose of radiation and they become irradiated
+- **Sources of radiation**
+	- **Natural sources:**
+		- **Atmosphere** - The air contains radon ($\text{Rn}$), a radioactive gas which seeps up from radioactive uranium rocks underground
+		- **Ground** - The ground contains radioactive substances in some amounts
+		- **Space** - Radiation is brought from space in the form of cosmic rays
+	- **Human sources:**
+		- **X-rays** - Used for medical imaging
+		- **Gamma rays** - Used to kill cancerous cells
+- **Geiger counter** - Used to detect radiation
+	- Records the rate at which radiation is detected (count rate)
+	- Measured in $\text{count}/s$ or $\text{count}/min$
+- **Types of radiation:**
+	- **Alpha particle ($\alpha$)**
+		- **Made of:** 2 protons and 2 neutrons
+		- **Charge:** $+2$
+		- **Mass:** $4\text{ amu}$
+		- **Speed:** $3\times 10^7m/s$
+		- **Penetrating power (most strongly ionising):**
+			- Paper: Absorbed
+		- **Decay example:** $Am_{94}^{241}\rightarrow U_{92}^{237}+He_2^4+\text{energy}$
+	- **Beta particle ($\beta$)**
+		- **Made of:** 1 electron
+		- **Charge:** $-1$
+		- **Mass:** $1/1840\text{ amu}$
+		- **Speed:** $2.9\times 10^8m/s$
+		- **Penetrating power (less strongly ionising):**
+			- Paper: Passes through
+			- Aluminium: Absorbed by a few millimetres
+		- **Decay example:** $C_6^{14}\rightarrow N_7^{14}+e_{-1}^0+\text{energy}$ ($n_0^1\rightarrow p_1^1+e_{-1}^0$)
+	- **Gamma ray ($\gamma$)**
+		- **Made of:** Electromagnetic radiation
+		- **Charge:** $0$
+		- **Mass:** $0\text{ amu}$
+		- **Speed:** $3\times 10^8m/s$
+		- **Penetrating power (least strongly ionising):**
+			- Paper: Passes through
+			- Aluminium: Passes through
+			- Concrete: Absorbed by several metres
+			- Lead: Absorbed by several centimetres
+- **Ionisation** - When radiation knocks electrons out of atoms
+- **Radioactive decay** - Process in which an unstable nucleus releases radiation to become more stable
+	- **Unstable nucleus:** Due to excess protons or excess electrons
+	- Random process, direction is also random
+	- Not affected by external factors
+	- When an $\alpha$ or $\beta$ particle is released, it becomes an atom of a different element
+- **Activity** - The rate at which a radioactive source's nuclei decay
+	- The activity of a source decreases over time
+	- As nuclei decay, they become more stable and there are fewer unstable nuclei
+- **Half-life** - The average time taken for half of the atoms in a sample to decay, or the time for its activity or count rate to halve.
+- **Usage of radioisotopes**
+	- **Smoke detectors** - Smoke prevents the ionisation of the air using Americium-241 $\alpha$ radiation
+	- **Thickness measurement** - The penetration of $\beta$ radiation is used to detect the precise thickness of paper
+	- **Cancer treatment** - $\gamma$ rays are used to destroy cancerous cells
+	- **Food irradiation** - $\gamma$ rays kill microbes in food
+	- **Sterilization** - $\gamma$ rays kill microbes on medical equipment
+	- **Medicine** - Technetium-99 is injected into a patient's bloodstream and traced to find blockages
+	- **Engineering** - Radioactive chemicals are added to water pipes to find leakages or contamination
+- **Radiocarbon dating** - The process of counting the amount of radioactive carbon-14 (half life: 5700 years) atoms present in an object to determine its age

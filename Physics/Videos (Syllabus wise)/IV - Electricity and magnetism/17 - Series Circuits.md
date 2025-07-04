@@ -1,0 +1,10 @@
+- **Series Circuit**
+	- Contains a single loop
+	- Components are connected sequentially
+	- If one component is broken or disconnected, the whole circuit breaks
+	- Potential difference is split between all components
+		- $V_\text{t} = V_1 + V_2 + \cdots$
+	- Current is the same everywhere
+		- $I = \dfrac{V_t}{R_t}$
+	- $R_{t} = R_1 + R_2 + \cdots$
+	- Voltmeters are connected in parallel

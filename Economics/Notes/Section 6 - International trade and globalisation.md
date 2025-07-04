@@ -1,0 +1,175 @@
+## Chapter 36 - International specialisation
+
+- **Specialisation** - When individuals, firms, regions, or countries concentrate on the production of a particular good or service
+	- **International specialisation** - Countries specialising in a product due to cost advantages (like an abundance of resources)
+	- **Advantages**
+		- **Efficiency gains** - Scarce resources are used
+		- **Labour productivity** - Workers can focus on their skills
+		- **Increased productive capacity** - The PPC moves outward in the direction of the good being specialised in
+		- **Economies of scale** - Firms can enjoy cost savings from large-scale operations (see [[Subjects/Economics/Notes/Section 3 - Microeconomic decision makers#Chapter 20 - Firms|chapter 20]])
+		- **Improved competitiveness** - Local industries can compete with international economies
+	- **Disadvantages**
+		- **Overspecialisation** - If the product cannot be produced or demand suddenly falls, it can severely harm the economy
+		- **Lack of variety for consumers** - Specialisation may lead to standardised, mass-produced goods
+		- **High labour turnover** - Workers may regularly leave the country in search of more challenging jobs
+		- **Low labour mobility** - Workers may find it difficult to switch jobs due to all the retraining required
+		- **Higher labour costs** - Specialised workers usually demand higher salaries from firms
+
+## Chapter 37 - Globalisation, free trade, and protection
+
+- **Globalisation** - The process by which the world's economies become increasingly interdependent and interconnected
+	- **Positives:**
+		- Increased international trade creates wealth and jobs worldwide
+		- Freer movement of labour, capital, goods, and services
+		- Greater economies of scale
+		- Greater choice of goods and services for consumers
+		- More cultural understanding
+	- **Negatives:**
+		- Greater dependence on the global economy (one problem can cause a chain reaction)
+		- Widened income and wealth gaps between poorest and richest countries
+- **Multinational corporation (MNC)** - Organisation that operates in two or more countries
+	- **Advantages:**
+		- **Job creation** - MNCs improve standards of living in countries they operate in
+		- **Economics of scale** - MNCs are able to exploit economics of scale due to the large scale at which they run
+		- **Larger customer base** - MNCs can earn more profits since more people can buy their products
+		- **Risk spreading** - MNCs spread risks across overseas markets
+		- **Avoiding trade restrictions** - MNCs can avoid trade restrictions since they have manufacturing plats worldwide
+		- **Access to new markets** - Creating branches overseas reduces transport costs
+		- **Reduce corporation tax** - MNCs can choose to relocate or expand their operations to lower their corporation tax
+	- **Disadvantages:**
+		- **Unethical practices** - MNCs are prone to use cost-cutting practices which may be unethical
+		- **Competition with local firms** - Local firms may be forced to shut down due to the MNCs ability to exploit economies of scale
+		- **Government exploitation** - MNCs earning a higher sales revenue than the GDP of a country gives them the ability to exploit them over important decisions
+		- **Overreliance on MNCs** - Low income countries that rely on an MNC could face major consequences should it relocate
+		- **Conflicting legal systems** - MNCs would have to deal with varying legal systems, tax regulations, and environmental guidelines between different countries
+		- **Difficult communication** - A more spread out MNC is harder to manage since different branches are spread across countries, languages, cultures, and time zones
+		- **Exchange rates** - Varying exchange rates (see [[Section 6 - International trade and globalisation#Chapter 38 - Foreign exchange rates|chapter 38]]) across markets makes it difficult to compare sales and profit value across markets
+		- **Local opinions** - MNCs may be unsuccessful in places where their products don't appeal to local tastes and customs
+- **International trade** - The exchange of goods and services beyond national borders
+	- **Exports** - Products sold to overseas buyers
+	- **Imports** - Foreign products bought by domestic households and firms
+- **Free trade** - Where international trade can take place without protectionist measures
+	- **Advantages:**
+		- **Access to resources** - Producers and consumers gain access to products they can't produce themselves
+		- **Lower prices** - The cost of trading is reduced
+		- **Economies of scale** - Firms operating on larger scales can benefit from economies of scale
+		- **Greater choice** - Consumers and firms have access to a larger variety of products
+		- **Increased market size** - Firms can have higher revenues and profits to the larger consumer base
+		- **Efficiency gains** - Domestic producers are forced to improve the quality of their output due to foreign competition
+		- **Improved international relations** - Cooperation between countries is encouraged
+- **Protection** - The use of trade barriers to restrain foreign trade
+	- **Methods:**
+		- **Tariffs** - Tax paid on imports
+		- **Import quotas** - Quantitative limit on imports
+		- **Subsidies** - Financial assistance to domestic producers (to encourage competition against foreign imports)
+		- **Embargo** - Ban on trade with a certain country
+		- **Rules and regulations** - Rules regarding food safety, environmental standards, product quality, etc.
+	- **Advantages:**
+		- Infant industries (new unestablished businesses) are safe guarded from foreign competition
+		- Domestic jobs are protected
+		- Prevents **dumping**
+			- **Dumping** - Process where foreign countries sell large quantities of product at deliberately cheaper prices than local firms
+		- Gives the government another source of revenue
+		- Helps overcome a balance of payments deficit (see [[Section 4 - Government and the macro economy#Chapter 25 - The macroeconomic aims of government|chapter 25]] and [[Section 6 - International trade and globalisation#Chapter 39 - Current account of balance of payments|chapter 39]])
+		- Safe guards the country from being too dependent on other countries
+	- **Disadvantages:**
+		- Government intervention distorts market signals
+		- Increased costs of production due to lack of competition and incentives for innovation
+		- Other countries may retaliate with their own trade barriers
+
+## Chapter 38 - Foreign exchange rates
+
+- **Exchange rate** - Price of one currency measured in terms of other currencies
+	- Important factor during international trade (see [[Section 6 - International trade and globalisation#Chapter 37 - Globalisation, free trade, and protection|chapter 37]])
+	- Fluctuating exchange rates can impact the demand and supply for/of products
+	- **Foreign exchange market** - Marketplace where different currencies can be bought and sold.
+	- Two systems:
+		- **Floating**
+			- Currency values fluctuate according to market forces, without government intervention
+			- **Appreciation** - Increase in a currency's value relative to another currency operating in a floating exchange rate system
+			- **Depreciation** - Decrease in a currency's value relative to another currency operating in a floating exchange rate system
+		- **Fixed**
+			- The central bank buys and sells foreign currencies to ensure the value of its currency stays fixed
+			- Uncertainties are reduced in international trade (prices of products overseas remain stable)
+			- **Disadvantages**
+				- Reduces the country's ability to use monetary policy changes
+				- Large opportunity cost when maintaining the fixed rate
+			- **Revaluation** - Price of a currency operating in a fixed exchange rate system is officially and deliberately increased
+			- **Devaluation** - Price of a currency operating in a fixed exchange rate system is officially and deliberately decreased
+	- **Exchange rate fluctuations**
+		- **Causes**
+			- **Changes in demand for exports** - Increased demand for exports increases the demand for the local currency
+			- **Changes in demand for imports** - Increased demand for imports increases the demand for foreign currency
+			- **Price and inflation** - Domestic inflation decreases the demand for exports
+			- **Foreign direct investment** - Globalisation and the expansion of MNCs causes investment overseas which requires the use of foreign currencies
+			- **Speculation** - Foreign exchange traders move money around the world to exploit interest and exchange rates and make a profit
+			- **Government intervention** - Governments may choose to sell or buy large amounts of foreign currency to alter exchange rates
+		- **Consequences:** When the exchange rate increases:
+			- Customers have greater purchasing power
+			- Exporters are forced to sell products at higher foreign prices
+			- Imports can buy products for cheaper
+			- Balance of payments may worsen (since it is harder for exporters to sell products overseas)
+			- Employees in export-oriented business may lose their jobs
+			- Lower levels of spending due to unemployment will reduce inflation
+			- Economic growth falls over time due to lower export sales and higher unemployment
+	- **Enduring strong exchange rates**
+		- Reducing export prices to maintain international competitiveness
+		- Seeking alternative suppliers for cheaper raw materials
+		- Improving productivity to keep average labour costs low
+		- Supplying more price inelastic products to make demand less sensitive to exchange rate fluctuations
+		- Focusing on non-price factors (like brand awareness and social responsibility)
+		- Relocating production processes to decrease costs of production
+
+## Chapter 39 - Current account of balance of payments
+
+- **Balance of payments** - The financial record of a country's transactions with the rest of the world for a given time period, usually one year (see [[Section 4 - Government and the macro economy#Chapter 25 - The macroeconomic aims of government|chapter 25]])
+- **Current account** - Records all exports and imports of products between a country and its trading partners, plus net income transfers from abroad
+	- **Four parts:**
+		- **Trade in goods** (or visible balance)
+			- Record of the exports and imports of physical goods
+			- **Visible exports** - Goods sold to foreign customers, with money flowing into the domestic economy
+			- **Visible imports** - Goods bought by domestic customers from foreign sellers, with money flowing out of the economy
+		- **Trade in services** (or invisible balance)
+			- Record of the export and import of services
+			- **Invisible export** - Services sold to foreign customers
+			- **Invisible import** - Services bought by domestic customers
+		- **Primary income** (or investment income)
+			- Record of the country's net income earned from investments abroad
+			- Examples:
+				- Profits earned by subsidiary companies based in overseas countries
+				- Interest received from loans and deposits in overseas banks
+				- Dividends earned from financial investments in overseas companies
+				- Foreign direct investments of individuals or businesses in overseas business ventures
+				- Money sent home by people working abroad
+		- **Secondary income** (or net income transfers)
+			- Record of income transfers between residents and non-residents
+			- Examples:
+				- Donations to charities abroad
+				- Foreign aid
+				- Subsidies or grants paid to companies based in overseas locations
+				- Payments of pensions to retired people now based in overseas countries
+				- Scholarships paid to students based in overseas universities
+	- **Current account deficit** - Import expenditure is greater than export earnings
+		- **Causes:**
+			- Lower demand for exports
+			- Higher demand for imports
+		- **Consequences:**
+			- Reduced demand
+			- Unemployment
+			- Lower standards of living
+			- Increased borrowing
+			- Lower exchange rate
+	- **Current account surplus** - Import expenditure is lesser than export earnings
+		- **Causes:**
+			- Higher demand for exports
+			- Lower demand for imports
+		- **Consequences:**
+			- Employment
+			- Standards of living
+			- Inflationary pressures
+			- Higher exchange rate
+- **Policies to achieve balance of payments stability**
+	- Fiscal policy (see [[Section 4 - Government and the macro economy#Chapter 26 - Fiscal policy|chapter 26]])
+	- Monetary policy (see [[Section 4 - Government and the macro economy#Chapter 27 - Monetary policy|chapter 27]])
+	- Supply-side policies (see [[Section 4 - Government and the macro economy#Chapter 28 - Supply-side policy|chapter 28]])
+	- Protectionist measures (see [[Section 6 - International trade and globalisation#Chapter 38 - Foreign exchange rates|chapter 38]])

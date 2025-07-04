@@ -1,0 +1,8 @@
+- **Moment** - The turning effect of a force around a **pivot**
+	- **Pivot (or fulcrum)** - The fixed point around which a lever turns
+	- **Formula:** $\text{Moment}=\text{Force}\times\text{Perpenticular distance}$
+	- **Unit:** $Nm$
+- **Beam** - Long rigid object pivoted at a point
+	- Beam is balanced if the clockwise and anticlockwise moment are equal
+- **Centre of Gravity** - In an object, the point at which the force of gravity appears to act
+	- When the centre of gravity moves over the pivot point of an object, the object falls over

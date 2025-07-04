@@ -1,0 +1,15 @@
+- **Static electricity** - Result of an imbalance between negative and positive charges in an object
+	- **Using friction** (Example: Rubbing a plastic rod with a cloth)
+		- Electrons move from the cloth to the rod
+		- Both become charged
+- **Types of materials:**
+	- **Electrical conductors** (Examples: Gold, copper)
+		- Materials that allow the flow of electrons
+	- **Electrical insulators** (Examples: Glass, plastic)
+		- Materials that inhibit the flow of electrons
+- **Electric field** - The region of space in which an electric charge experiences a force
+	- Field lines indicate which direction a positively charged particle would be pulled
+	- A stronger force is indicated by field lines close together
+	- Field lines point from the north pole to the south pole
+- **Charge**
+	- **Unit:** Coulomb ($C$)

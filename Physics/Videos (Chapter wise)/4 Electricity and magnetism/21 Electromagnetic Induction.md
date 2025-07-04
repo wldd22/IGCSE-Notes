@@ -1,0 +1,37 @@
+- **Electromagnetic induction** - The process of generating electricity from motion
+- **Generator** - Converts mechanical energy into electrical energy
+	- High pressure steam passes through turbines
+	- The turbines spin a coil inside of some fixed electromagnets
+	- A current in induced within the rotating coil
+	- **Alternating current generator**
+		- **Method:**
+			- A coil is attached to an axle which spins
+			- The coil is surrounded by two strong permanent magnet poles, north and south
+			- The two ends of the coil are attached to two separate slip rings
+			- The rings rotate in place, along with the coil
+			- The rings rub against brushes which send current through wires
+			- Due to the coils rotation, every $180\degree$, the direction of current induced reverses
+		- **Increasing the voltage**
+			- Rotate the coil faster
+			- Add more turns of wire to the coil
+			- Use a coil with a bigger area
+			- Use stronger magnets
+- **Lenz's law** - An induced current in a conductor will always flow in such a direction as to oppose the change in the magnetic field that produced it
+- **Power lines** - Used to send electricity to houses
+	- High voltage electricity leaves the power station
+	- It travels along power lines held above the ground by tall pylons
+	- The high voltage electricity is reduced, using a **transformer**, in local distribution centres
+	- The lower voltage electricity is sent to houses
+- **Transformer** - Device which changes the voltage of an A.C. electricity supply
+	- **Step-up transformer** - Used to increase the voltage
+	- **Step-down transformer** - Used to decrease the voltage
+	- An iron core loop has two coils of wire looped on it, the primary coil, and the secondary coil
+	- The incoming voltage is sent through the primary coil
+	- The outgoing voltage is induced in the secondary coil
+	- The change in voltage is determined by the number of turns in each coil
+	- **Formula:** $\dfrac{V_p}{V_s}=\dfrac{N_p}{N_S}$
+		- $V_p$ - Voltage in the primary coil
+		- $V_s$ - Voltage in the secondary coil
+		- $N_p$ - Number of turns of the primary coil
+		- $N_s$ - Number of turns of the secondary coil
+	- Whichever coil has more turns will also have more voltage and vice versa

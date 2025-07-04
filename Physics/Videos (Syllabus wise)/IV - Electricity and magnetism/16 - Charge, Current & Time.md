@@ -1,0 +1,5 @@
+- **Charge** ($Q$) - Measure of the total current that has flowed through a point within a certain time period
+	- Measured in coulombs ($C$)
+	- Equation
+		- $Q = It$
+		- $\text{charge (C)} = \text{current (A)}\times\text{time (s)}$

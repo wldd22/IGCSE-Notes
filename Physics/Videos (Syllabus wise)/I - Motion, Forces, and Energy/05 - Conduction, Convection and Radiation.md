@@ -1,0 +1,26 @@
+- **Heating** can take place in three different ways:
+	- **Conduction**
+		- Transfers heat through solids
+			- Because particles in a solid are held together tightly, so there are lots of collisions
+		- Vibrating particles transfer energy to neighbouring particles
+		- **Thermal conductivity** - A measure of how well objects transfer energy by conduction
+			- Metals have a high thermal conductivity
+			- Plastics have a low thermal conductivity
+			- Most fluids have a low thermal conductivity
+	- **Convection**
+		- Transfers heat (usually) through fluids (includes liquids and gases)
+		- When particles are heated:
+			- The more energetic (warmer) particles spread out more than the less energetic (cooler) particles
+			- The fluid in the warmer region expands and becomes less dense than the fluid in the cooler region
+		- **Convection current**
+			- The fluid is heated and the particles near the bottom become warmer and get extra energy
+			- The warmer particles (which are lower down) rise higher than the cooler particles and lose their extra energy in the process
+			- The cooler particles (which are now lower down) become heated and begin rising
+			- The process continues as long as the fluid is being heated
+			- This cycle is called a convection current
+		- To reduce convection, stop the free flow of fluids
+	- **Radiation**
+		- Transfers heat through empty space
+		- Energy is carried by infrared waves through a vacuum
+		- All objects constantly absorb and emit radiation
+			- Objects emit more radiation, the hotter they are

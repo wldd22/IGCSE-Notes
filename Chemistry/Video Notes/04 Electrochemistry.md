@@ -1,0 +1,150 @@
+## Part 1/3 (https://youtu.be/vvbP9xd9CE4)
+
+- **Electrolysis** - Decomposition of an ionic compound, when in molten or aqueous state, by passing an electric current through it
+	- **Electrolyte** - The molten or aqueous substance that undergoes electrolysis
+		- **Molten** - Heated till it becomes a liquid
+		- **Aqueous** - Dissolved in water
+	- **Electrode** - A rod made of a conductive material (usually metal or graphite) that allows electric current to pass through the electrolyte
+		- **Cathode** - Negative electrode (attracts cations)
+			- **Cation** - Positively charged ion (after losing electrons)
+			- Electrons move through power supply to cathode
+			- Cations in the electrolyte are attracted to the cathode and undergo reduction
+			- **Reduction** - Gain of electrons
+		- **Anode** - Positive electrode (attracts anions)
+			- **Anion** - Negatively charged ion (after gaining electrons)
+			- Electrons move from anode to power supply
+			- Anions in the electrolyte are attracted to the anode and undergo oxidation
+			- **Oxidation** - Loss of electrons
+	- **Power supply**
+		- The power supply provides the voltage to move an electric current through the circuit
+		- When current flows in the external circuit, electrons carry the charge
+		- When current flows in the electrolyte, ions carry the charge
+	- **Products**
+		- When ions touch the electrodes, electrons are lost or gained, creating neutral substances: the products
+		- Two ionic half equations are used to represent the reactions at each electrode. Example:
+			- **Cathode:** $Na^++e^-\longrightarrow Na$
+			- **Anode:** $2Cl^--2e^-\longrightarrow Cl_2$
+				- Rearranged to follow convention:
+				- $2Cl^-\longrightarrow Cl_2+2e^-$
+
+## Part 2/3 (https://youtu.be/BPdP4sYC_Oo)
+
+- **Inert electrodes** - Electrodes that don't take part in the electrolysis process
+	- Usually platinum or graphite
+- **Example of electrolysis with a molten electrolyte:**
+	- **Electrolyte** - $\text{Molten Lead (II) Bromide}$ ($PbBr_2$)
+	- **Electrodes** - Platinum electrodes
+	- **Reactions:**
+		- **Cathode:** $Pb^{2+}+2e^-\longrightarrow Pb$ (precipitate)
+		- **Anode:** $2Br^-\longrightarrow Br_2+2e^-$ (bubbles)
+- **Electrolysis with an aqueous electrolyte**
+	- The electrolyte contains ions from the compound and from water (hydrogen and hydroxide)
+	- **Cathode**
+		- Either the **metal** or **hydrogen** is discharged
+		- Less reactive ion is discharged
+		- **Reactivity series (from most to least reactive):**
+			- $K$ - **Potassium**
+			- $Na$ - **Sodium**
+			- $Li$ - **Lithium**
+			- $Ca$ - **Calcium**
+			- $Mg$ - **Magnesium**
+			- $Al$ - **Aluminium**
+			- $C$ - **Carbon**
+			- $Zn$ - **Zinc**
+			- $Fe$ - **Iron**
+			- $H$ - **Hydrogen**
+			- $Cu$ - **Copper**
+			- $Ag$ - **Silver**
+			- $Au$ - **Gold**
+		- Hydrogen is discharged unless the metal is copper, silver, or gold
+		- Other ion remains in the solution
+	- **Anode**
+		- Either the **non-metal** or **hydroxide** is discharged
+		- **If the electrolyte is concentrated:**
+			- If non-metal is a halide, it is discharged
+				- **Halides** - $F$, $Cl$, $Br$, $I$, $At$, $Ts$
+			- Otherwise, hydroxide is discharged
+		- **Otherwise, in a diluted solution**
+			- Hydroxide is discharged
+		- Other ion remains in the solution
+		- **Discharged halide** forms a **halogen**
+		- **Discharged hydroxide** forms **oxygen gas and water**
+			- $4OH^-\longrightarrow O_2+2H_2O+4e^-$
+	- Remaining ions react in the electrolyte
+	- **Example:**
+		- **Electrolyte** - $\text{Concentrated Aqueous Sodium Chloride}$ ($NaCl$)
+		- **Electrodes** - Graphite electrodes
+		- **Reactions:**
+			- **Cathode:**
+				- Sodium is more reactive than hydrogen, so hydrogen is discharged
+				- Hydrogen gas is formed (bubbles)
+				- $2H^++2e^-\longrightarrow H_2$
+			- **Anode:**
+				- The electrolyte is concentrated and chloride is a halide, so chloride is discharged
+				- Chlorine gas is formed (bubbles)
+				- $2Cl^-\longrightarrow Cl_2+2e^-$
+		- **Remaining electrolyte** - $NaOH$
+	- **Example:**
+		- **Electrolyte** - $\text{Dilute Aqueous Sulphuric Acid}$ ($H_2SO_4$)
+		- **Electrodes** - Platinum electrodes
+		- **Reactions:**
+			- **Cathode:**
+				- Both cations are hydrogen, so hydrogen is discharged
+				- Hydrogen gas is formed (bubbles)
+				- $2H^++2e^-\longrightarrow H_2$
+			- **Anode:**
+				- The electrolyte is dilute, so hydroxide is discharged
+				- Oxygen gas and water is formed (bubbles)
+				- $4OH^-\longrightarrow O_2+2H_2O+4e^-$
+		- **Remaining electrolyte** - $H_2SO_4$
+
+## Part 3/3 (https://youtu.be/pqpeSbLPDgQ)
+
+- **Example of electrolysis with inert electrodes:**
+	- **Electrolyte** - $\text{Aqueous Copper (II) Sulphate}$ ($CuSO_4$)
+	- **Electrodes** - Graphite electrodes
+	- **Reactions:**
+		- **Cathode:**
+			- Copper is less reactive than hydrogen, so copper is discharged
+			- Solid copper is formed (precipitate)
+			- $Cu^{2+}+2e^-\longrightarrow Cu$
+		- **Anode:**
+			- Sulphate is not a halide, so hydroxide is discharged
+			- Oxygen gas and water is formed (bubbles)
+			- $4OH^-\longrightarrow O_2+2H_2O+4e^-$
+	- **Remaining electrolyte** - $H_2SO_4$
+- **Electroplating** - Method used to cover a metal object with a thin layer of metal, using electrolysis (Coating one metal with another)
+	- Commonly used to improve the appearance of an object or its resistance to corrosion
+	- **Method:**
+		- **Cathode** - Object that needs to be electroplated
+		- **Anode** - Made of the metal used to coat the object (plating metal)
+		- **Electrolyte** - Contains ions of the plating metal
+	- **Process:**
+		- Metal ions in the electrolyte deposit on the cathode
+		- Metal ions are replaced in the electrolyte by the anode
+	- **Example:**
+		- **Electrolyte** - $\text{Silver Nitrate}$ ($AgNO_3$)
+		- **Electrodes** - $\text{Iron}$ ($Fe$) cathode and $Silver$ ($Ag$) anode
+		- **Reactions:**
+			- **Cathode:**
+				- Silver is less reactive than hydrogen, so it gets discharged
+				- Silver gets coated (precipitate)
+				- $Ag^++e^-\longrightarrow Ag$
+			- **Anode:**
+				- Atoms in the anode lose electrons to form ions
+				- Electrolyte gets resupplied with silver ions
+				- $Ag\longrightarrow Ag^++e^-$
+		- **Remaining electrolyte** - $AgNO_3$
+- **Fuel** - Substance burned to produce energy
+- **Fuel cell** - Converts chemical energy to electrical energy
+	- Usually used to power vehicles
+	- **Hydrogen-Oxygen fuel cells** - Uses hydrogen and oxygen to produce electricity with water as the only chemical product
+		- **Advantages:**
+			- Less pollution
+			- Higher energy
+			- Less noise pollution
+		- **Disadvantages:**
+			- Challenges in hydrogen storage
+			- Expensive
+			- Limited filling infrastructure
+			- Environmental impact of hydrogen production

@@ -1,0 +1,150 @@
+**Playlist:** https://www.youtube.com/playlist?list=PLKw0ZzfWn1yvKO3KdDzdcBZ6NPPb10-5P
+
+- **Organic Chemistry** - Relating to compounds that contain carbon ($C$)
+	- Carbon can form four bonds
+	- Most common carbon bonds are with carbon and hydrogen
+- **Hydrocarbons** - Compounds formed by carbon and hydrogen
+	- **Homologous series** - Series of compounds with similar properties and the same general formula
+	- **Alkanes** - Only contain $C-C$ single bonds
+		- Saturated hydrocarbons
+		- Examples:
+			- $CH_4$, $C_2H_6$, $C_3H_8$
+		- General formula: $C_nH_{2n+2}$
+		- Naming: Suffix of "ane" (example: $\text{ethane}$)
+		- **Trends:** When chain length increases:
+			- Boiling point increases
+			- Volatility decreases
+			- Flammability decreases
+		- **Combustion:**
+			- **Complete combustion:**
+				- $\text{Hydrocarbon}+\text{Oxygen}\longrightarrow\text{Carbon Dioxide}+\text{Water}$
+				- $C_xH_y+O_2\longrightarrow CO_2 + H_2O$
+			- **Incomplete combustion:** Also produces carbon monoxide ($CO$)
+	- **Alkenes** - Contain at least one $C=C$ double bonds
+		- Unsaturated hydrocarbons
+		- General formula: $C_nH_{2n}$
+		- Naming: Suffix of "ene" (example: $\text{ethene}$)
+		- More reactive than alkanes
+		- **Addition reaction:**
+			- $\text{Alkene}+\text{Hydrogen}\xrightarrow{\text{catalyst}}\text{Alkane}$
+				- Example: $C_3H_6+H_2\xrightarrow{\text{catalyst}}C_3H_8$
+				- $\text{Propene}+\text{Hydrogen}\xrightarrow{\text{catalyst}}\text{Propane}$
+			- $\text{Alkene}+\text{Water}\xrightarrow{\text{catalyst}}\text{Alcohol}$ (At high temperature)
+				- Example: $C_2H_4+H_2O\xrightarrow{\text{catalyst}}C_2H_5OH$
+				- $\text{Ethene}+\text{Water}\xrightarrow{\text{catalyst}}\text{Ethanol}$
+			- $\text{Alkene}+\text{Halogen}\longrightarrow\text{Alkane}$
+				- Example: $C_2H_4+Br_2\longrightarrow C_2H_4Br_2$
+				- $\text{Ethene}+\text{Bromine}\longrightarrow\text{Dibromoethane}$
+					- **Alkene test** - Alkenes turn **bromine water** from **orange to colourless**
+		- Can be added together to form **polymers**
+		- **Manufacture of alcohols:**
+			- React alkene (gas) with water (gas) to form alcohol (gas)
+			- Use **fractional distillation** to separate unreacted alkene and water from the alcohol
+- **Crude oil** - Fossil fuel underground
+	- Formed naturally from the remains of plants and animals (mostly plankton)
+	- Contains hydrocarbons
+	- Non-renewable fuel
+	- Separated into component using **fractional distillation**
+	- **Fractional distillation** - Separation of compounds in a mixture by utilising their different boiling points
+- **Cracking** - Thermal decomposition reaction
+	- Breaking down molecules with heat
+	- **Catalytic cracking:**
+		- Hydrocarbon vapour is passed over catalyst (hot powdered aluminium oxide)
+		- Catalyst causes split
+	- **Steam cracking:**
+		- Hydrocarbon vapour is mixed with steam and heated to a very high temperature
+		- High temperature causes split
+	- **Equation:**
+		- $\text{Long Chain Alkane}\longrightarrow\text{Alkane}+\text{Alkene}$
+- **Polymers:**
+	- Naming: Prefix of "poly" (example: $\text{ethene}\longrightarrow\text{polyethene}$)
+	- **Addition polymers:**
+		- A long chain of alkenes
+		- Requires one monomer (or repeating unit)
+		- Requires high pressure and a catalyst to form
+		- $n$ - Number of repeating units
+		- Examples:
+			- $n(CH_2=CH_2)\xrightarrow[\text{pressure}]{\text{catalyst}}-(CH_2-CH_2)_n-$
+				- $\text{Ethene}\xrightarrow[\text{pressure}]{\text{catalyst}}\text{Polyethene}$
+			- $n(CH_2=CHC_2H_5)\xrightarrow[\text{pressure}]{\text{catalyst}}-(CH_2-CHC_2H_5)_n-$
+				- $\text{Butene}\xrightarrow[\text{pressure}]{\text{catalyst}}\text{Polybutene}$
+	- **Condensation polymers:**
+		- Requires two monomers
+			- **Dicarboxylic acid monomer** - Has two carboxylic acid groups
+			- **Diol monomer** - Has two alcohol groups
+		- Forms a small molecule (generally water)
+		- $\text{Dicarboxylic acid monomer}+\text{Diol monomer}\longrightarrow\text{Condensation Polymer}+\text{Water}$
+		- **Requirements:**
+			- Both monomers must have (at least) two functional groups
+			- There should be (at least) two different functional groups overall
+		- **Polyester** - A condensation polymer containing an ester link
+			- Generally biodegradable
+		- Example of polyester formation:
+			- $$nCOOH-\square-COOH+OH-CH_2-\blacksquare-CH_2-OH\longrightarrow\atop-(CO-\square-COO-CH_2-\blacksquare-CH_2-O)_n-+2nH_2O$$
+	- **Naturally occurring polymers:**
+		- **Polypeptides**
+			- Chain of **amino acids**
+			- **Amino acids:**
+				- $NH_2-CHR-COOH$
+					- $NH_2$ - Amino group
+					- $R$ - R group (changes for different amino acids)
+					- $COOH$ - Carboxyl group (or carboxylic acid group)
+			- $n(NH_2-CHR-COOH)\longrightarrow-(NH-CHR-CO)_n-+nH_2O$
+			- **Functional group:** $CO-NH$ (Amide link, amide bond, peptide bond)
+		- **DNA**
+			- Chain of **nucleotides**
+			- **Nucleotides**
+				- **Base** - Small unique molecule in a nucleotide
+					- 4 types: T, A, G, C
+				- Linked together to form strands, which curl up in pairs (double helix)
+		- **Carbohydrates**
+			- Only made from carbon, oxygen, and hydrogen
+			- Refers to polymers and monomers
+			- **Polymers** (also called polysaccharides)**:**
+				- **Examples:** Starch, cellulose, glycogen
+			- **Monomers:**
+				- **Examples:** Glucose, fructose
+- **Alcohols:**
+	- Functional group: $-OH$
+	- General formula: $C_nH_{2n+1}OH$
+	- Naming: Suffix of "ol" (example: $\text{ethanol}$)
+	- **Flammable** (can go through complete combustion) and **soluble** (can dissolve in water)
+	- **Complete combustion:**
+		- $\text{Alcohol}+\text{Oxygen}\longrightarrow\text{Carbon Dioxide}+\text{Water}$
+		- $C_nH_{2n+1}OH+O_2\longrightarrow CO_2 + H_2O$
+	- **Uses:**
+		- Fuel
+		- Solvents
+- **Carboxylic acids:**
+	- Functional group: $-COOH$
+	- General formula: $C_nH_{2n+1}COOH$
+	- Naming: Suffix of "oic acid" (example: $\text{ethanoic acid}$)
+	- Weak acids
+	- **Ionisation:**
+		- $C_nH_{2n+1}COOH\longrightleftharpoons C_nH_{2n+1}COO^-+H^+$
+		- Example:
+			- $C_2H_5COOH\longrightleftharpoons C_2H_5COO^-+H^+$
+			- $\text{Propanoic acid}\longrightleftharpoons\text{Propanoate ion}+\text{Hydrogen ion}$
+	- **Carbonate reaction:**
+		- $\text{Carboxylic acid}+\text{Metal carbonate}\longrightarrow\text{Salt}+\text{Water}+\text{Carbon Dioxide}$
+		- Example:
+			- $CH_3COOH+K_2CO_3\longrightarrow 2CH_3​COOK+H_2O+CO_2$
+			- $\text{Ethanoic acid}+\text{Potassium carbonate}\longrightarrow\text{Potassium ethanoate}+H_2O+CO_2$
+	- **Formation:**
+		- $\text{Alcohol}\xrightarrow{\text{oxidising agent}}\text{Carboxylic acid}$
+		- Example:
+			- $C_4H_9OH\xrightarrow{\text{oxidising agent}}C_3H_7COOH$
+			- $\text{Butanol}\xrightarrow{\text{oxidising agent}}\text{Butanoic acid}$
+- **Esters:**
+	- Functional group: $-COO-$ (can be called ester group or ester link)
+	- **Properties:**
+		- Pleasant smells
+		- Volatile
+		- Fast evaporation
+	- **Uses:**
+		- Perfumes
+		- Food flavouring
+	- **Formation:**
+		- $\text{Carboxylic acid}+\text{Alcohol}\xrightarrow{\text{acid catalyst}}\text{Ester}+\text{Water}$
+			- Acid catalyst is usually concentrated sulfuric acid ($\text{conc. }H_2SO_4$)
+			- Water is the by-product

@@ -1,0 +1,14 @@
+
+- **Gravity** - The force of attraction between two objects where the size of the force depends on the mass of the two objects and the distance between them
+- **Gravitational Field** - The field around an object where another object experiences a gravitational force
+	- **Weight** - The gravitational force experienced by an object when it is in a gravitational field
+		- **Formula**
+			- $w = mg$
+			- $\text{weight}(N) = \text{mass}(kg)\times\text{gravitational field strength}(N/kg)$
+	- **Gravitational Field Strength** - The strength of a gravitational field (Represented by $g$)
+		- Earth's $g = 9.8\ N/kg$ ($9.8\ m/s^2$)
+		- Moon's $g = 1.6\ N/kg$
+- **Gravitational Potential Energy ($g.p.e.$)** - The energy an object possesses because of its position in a gravitational field
+	- **Formula**
+		- $E_p = mgh$
+		- $g.p.e.(J) = \text{mass}(kg)\times\text{gravitational field strength}(N/kg)\times\text{height}(m)$

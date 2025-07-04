@@ -1,0 +1,21 @@
+- **Speed**
+	- Rate of change of an object's distance (from a point)
+	- **Velocity** - Speed in a specific direction
+	- **Formula:** $\text{Speed} = \dfrac{\text{Distance}}{\text{Time}}$
+- **Acceleration**
+	- Rate of change of an object's velocity
+	- **Formula:** $\text{Acceleration} = \dfrac{\Delta\text{Speed}}{\text{Time}} = \dfrac{v-u}{t}$
+- **Motion graphs:**
+	- **Distance-time graphs**
+		- **X Axis:** Time
+		- **Y Axis:** Distance
+		- **Gradient:** Speed
+		- Flat means no speed
+		- Straight line means constant speed
+	- **Speed-time graphs**
+		- **X Axis:** Time
+		- **Y Axis:** Speed
+		- **Gradient:** Acceleration
+		- **Area under the curve:** Distance
+		- Flat means constant speed
+		- Straight line means constant acceleration

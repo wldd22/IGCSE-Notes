@@ -1,0 +1,30 @@
+- **Magnetic poles**
+	- North pole, south pole
+	- Opposite poles attract, like poles repel
+- **Types of materials:**
+	- **Non-magnetic materials** (example: plastic)
+		- Not attracted by a magnet
+		- Cannot be magnetised
+	- **Magnetic materials**
+		- Can be attracted/repelled
+		- Can be magnetised
+		- **Hard magnet** (example: steel)
+			- Permanent magnet
+			- Difficult to demagnetise
+		- **Soft magnet** (example: soft iron)
+			- Can be magnetised
+			- Easy to demagnetise
+- **Induced magnetism** - When a material is magnetised by being placed in a **magnetic field**
+	- When a magnetic material is brought near the pole of a magnet, it becomes oppositely charged and attracts toward the magnet
+- **Demagnetisation** - Removing the magnetism from a magnetic material
+	- Can be done by heating the material, or striking it repeatedly
+- **Magnetic field** - The region of space around a magnet or electric current in which a magnetic pole experiences a force
+	- Field lines indicate which direction a north pole would be pulled
+	- A stronger force is indicated by field lines close together
+	- Field lines point from the north pole to the south pole
+- **Electromagnets** - Coil of wire that behaves as a magnet when an electric current passes through it
+	- Coil is sometimes called a solenoid
+	- **To strengthen an electromagnet:**
+		- Increase the current flowing through it
+		- Increase the number of turns in the coil
+		- Add soft iron core

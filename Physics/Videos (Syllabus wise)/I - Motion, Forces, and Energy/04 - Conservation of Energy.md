@@ -1,0 +1,10 @@
+- Energy can be transferred usefully, stored, or dissipated, but can never be created or destroying
+- **Dissipated energy** - Energy that is wasted (converted into a form that is unintended)
+	- Usually heat
+- **System** - A portion of the physical universe
+	- **Environment** - Everything outside a system
+	- **Open System**
+		- Energy and matter can move freely between the system and the environment
+	- **Closed System**
+		- Energy and matter cannot enter or escape the system
+		- Overall energy (or matter) never changes

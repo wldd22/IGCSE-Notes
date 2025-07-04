@@ -1,0 +1,9 @@
+- **Power**
+	- Rate at which **energy is transferred**
+		- **Formula**
+			- $P = \dfrac{E}{t}$
+			- $\text{power (J/s)} = \dfrac{\text{energy transferred (J)}}{\text{time (s)}}$
+	- Rate at which **work is done**
+		- **Formula**
+			- $P = \dfrac{W}{t}$
+			- $\text{power (J/s)} = \dfrac{\text{work done (J)}}{\text{time (s)}}$

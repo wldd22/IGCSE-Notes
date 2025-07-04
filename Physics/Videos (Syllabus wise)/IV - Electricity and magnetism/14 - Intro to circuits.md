@@ -1,0 +1,15 @@
+- **Electrical circuit** - Closed loop containing a power source (ex. cell) and a path for electrons to flow through (ex. wire)
+	- Represented using circuit diagrams
+	- **Electrons** flow from the **negative terminal** of the power source to the **positive terminal**.
+	- **Conventional current** flows from the **positive terminal** of the power source to the **negative terminal**.
+- **Cell** - Component that acts as a power source in the circuit
+- **Battery** - Component made up of two or more cells
+- **Filament lamp** - Component that emits light when powered
+- **Switch** - Component that can be opened or closed to let electrons through
+- **Current** ($I$) - Measure of the flow of electrons around a circuit
+	- Measured in amperes/amps ($A$)
+- **Potential difference / Voltage** ($V$) - Force driving the flow of electrons
+	- Provided by the power source
+	- Measured in volts ($V$)
+- **Resistance** ($R$) - The force which opposes the flow of electrons
+	- Measured in ohms ($\ohm$)

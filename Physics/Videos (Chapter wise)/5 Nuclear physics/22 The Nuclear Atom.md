@@ -1,0 +1,40 @@
+- **Ernest Rutherford experiment**
+	- **Method**
+		- Alpha particles are fired at a thin piece of gold foil
+		- They pass through the foil or deflect off and make a mark on a circular fluorescent screen
+	- **Results**
+		- Most of the particles remain undeflected and make marks behind the foil
+		- Some particles are deflected and make marks around the screen
+	- **Conclusion**
+		- The positively charged alpha particles deflected away from the foil, meaning they were repelled by positively charged particles in the gold foil
+		- Since so few particles were deflected, this must mean that the positive charge is concentrated in a small space inside the atom, called the nucleus
+- **Atomic structure**
+	- **Nucleus** - Concentrated space in the middle of the atom
+		- Contains nucleons (**protons** and **neutrons**)
+		- **Proton**
+			- Mass: $1\text{ amu}$
+			- Charge: $+1$
+		- **Neutron**
+			- Mass: $1\text{ amu}$
+			- Charge: $0$
+	- **Shells** - Rings of electrons orbiting the nucleus
+		- Contain **electrons**
+		- **Electron**
+			- Mass: $1/1840\text{ amu}\approx0\text{ amu}$
+			- Charge: $-1$
+	- **Nucleon number (or mass number)** - Number of nucleons in a nucleus
+	- **Proton number (or atomic number)** - Number of protons in a nucleus
+	- **Format:** $\text{Symbol}_\text{Proton number}^\text{Nucleon number}$
+- **Isotopes** - Same atomic number but different nucleon number
+	- Same number of protons but different number of neutrons
+	- Same properties but more neutrons means heavier
+	- Example: $U_{92}^{235}$ and $U_{92}^{238}$
+- **Nuclear fusion and fission**
+	- **Nuclear fission** - When a nucleus is hit with an extra neutron causing it to become unstable and split into two nuclei with three extra neutrons
+		- Example: $U_{92}^{235}+n_0^1\rightarrow Ba_{36}^{92}+Kr_{56}^{141}+3n_0^1+\text{energy}$
+	- **Nuclear fusion** - When two nuclei join together to form a larger nucleus at a high temperature
+		- Example: $H_1^2+H_1^2\rightarrow He_2^3+n_0^1+\text{energy}$
+	- **Formula:** $E=mc^2$
+		- $E$ - Energy released
+		- $m$ - Mass lost
+		- $c$ - Speed of light

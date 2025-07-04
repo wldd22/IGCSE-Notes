@@ -1,0 +1,31 @@
+- **Conduction**
+	- **Process:**
+		- Particles near a heat source vibrate more than ones away
+		- Particles collide with each other and transfer energy through the object
+	- **Metals** are generally **good** thermal conductors
+		- Metals have loose electrons which can carry thermal energy
+	- **Non-metals** are generally **bad** thermal conductors
+	- **Solids** are better thermal conductors than **liquids** which are better thermal conductors than **gases**
+- **Convection**
+	- Only for fluids
+	- **Process:**
+		- When particles near the bottom of the fluid heat up, they expand, becoming less dense, and moving to the top
+		- Over time the hot particles move up, away from the heat source, which now heats the cold particles at the bottom
+- **Radiation**
+	- Doesn't require a medium (can be in a vacuum)
+	- **Process:**
+		- All objects produce **infrared radiation** (dependant on how hot they are)
+		- **Infrared radiation** - Part of the electromagnetic spectrum
+			- Travels through space as a wave in a straight line
+			- Invisible to the naked eye
+			- Warms objects that absorb it
+	- **Good** reflectors are **bad** absorbers (Shiny white surfaces)
+	- **Bad** reflectors are **good** absorbers (Matte black surfaces)
+- **Insulation**
+	- Prevents thermal energy transfers in and out of a specific region (example: a house)
+	- **Examples (for a house):**
+		- **Thick curtains** - Stops convection currents
+		- **Loft and underfloor insulating materials** - Prevents conduction through floors and ceilings
+		- **Double/Triple glazed windows** - A vacuum between glass panes reduces conduction and convection
+		- **Cavity walls** - Reduces conduction
+		- **Foam or rockwool in wall cavity** - Reduces convection

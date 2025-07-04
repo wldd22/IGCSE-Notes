@@ -1,0 +1,40 @@
+- **Electromagnetic waves**
+	- Travel at the same speed as light
+		- In a vacuum: $3.0\times10^8$
+- **Electromagnetic spectrum** - Spectrum of frequencies/wavelengths representing different electromagnetic waves
+	- **Radio waves** - $1mm<\lambda<100km$
+		- **Uses:**
+			- Broadcast radio and television signals
+			- Wireless data transfer such as RFID (Radio frequency identification)
+	- **Microwave** - $1mm<\lambda<100cm$
+		- **Uses:**
+			- Microwave ovens
+			- Satellite televisions
+			- Mobile phone signals
+	- **Infrared** - $700nm<\lambda<1mm$
+		- **Uses:**
+			- Remote controls
+			- Grills and toasters
+			- Security alarms
+		- **Hazard:** Causes burns
+	- **Visible light** - $400nm(\text{Violet})<\lambda<700nm(\text{Red})$
+		- **Uses:**
+			- Photography
+			- Optical instruments
+			- Photosynthesis (for plants)
+	- **Ultra-violet** - $180nm<\lambda<420nm$
+		- **Uses:**
+			- Finding forensic evidence
+			- Sterilising water/medical equipment
+		- **Hazard:** Damages skin and eye cells
+	- **X-rays** - $0.1nm<\lambda<10nm$
+		- **Uses:**
+			- Medical imaging
+			- Security scanners
+		- **Hazard:** Causes cell mutations which may lead to cancer
+	- **Gamma rays** - $\lambda<10\mu m$
+		- **Uses:**
+			- Kills cancerous cells
+			- Sterilising medical equipment
+			- Finding cracks in pipes
+		- **Hazard:** Causes cell mutations which may lead to cancer

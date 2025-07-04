@@ -1,0 +1,92 @@
+## 19.1 - Circuit components
+
+- **Resistor** - A component in an electric circuit whose resistance decreases the current flowing
+	- Made from metal wire or from carbon
+	- High resistance resistors tend to be made from graphite (due to its bad electric conduction)
+- **Variable resistor** - Type of resistor whose resistance can be changed
+	- Has three terminals
+	- How it works:
+		- As the control is turned, the contact slides over the resistive track
+		- Current enters at one end and flows through the track until it reaches the contact, where it leaves the resistor
+		- The amount of track that it flows through depends on the position of the contact
+	- Often used as volume control for sound systems.
+- **Light-dependent resistor (LDR)** - Type of resistor whose resistance decreases when light shines on it
+	- Made of a material that doesn't normal conduct well
+	- Has a high resistance (often over $1\ M\ohm$, $1\ 000\ 000\ \ohm$) in the dark
+	- Light provides the energy to allow a current to flow
+	- Resistance decreases to around $400\ \ohm$ in bright light
+	- Used to detect the level of light
+- **Thermistor** - Type of resistor whose resistance depends on its temperature.
+	- **NTC thermistor** - Type of thermistor whose resistance decreases as temperature increases
+		- NTC stands for negative temperature coefficient
+		- May be $2\ k\ohm$ at room temperature and $20\ \ohm$ at $100\degree C$
+- **Relay** - Type of switch that works using an electromagnet.
+	- Uses two complete circuits
+		- Magnetising coil (electromagnet) in one circuit
+		- Switch in the other circuit
+	- When current flows through the coil of the first circuit, it becomes magnetised pulling the switch in the second circuit closed
+		- Useful when the second circuit has a large voltage making it dangerous to manually operate
+- **Diode** - Electric component that only allows electric current to flow in one direction
+	- Arrow in the diode symbol indicates the direction conventional current may flow
+	- **Light-emitting diode (LED)** - Diode that emits light when current flows through it
+		- Commonly used in electronic equipment
+		- Use less power than filament bulbs
+		- Require less maintenance than filament bulbs
+
+## 19.2 - Combinations of resistors
+
+- Multiple resistors may be connected in a circuit in **series** or in **parallel**
+- **When multiple resistors are in series**
+	- $R_t=R_1+R_2$
+	- The **combined resistance** is equal to the **sum of the resistances**
+	- The **current is the same** at all points around the circuit
+	- The bigger the resistance the bigger the p.d. across it
+	- The p.d. of the supply is **shared** between the resistors
+	- The sum of the p.d.s across the resistors gives the p.d. of the power supply
+- **When multiple resistors are in parallel**
+	- $\dfrac{1}{R_t}=\dfrac{1}{R_1}+\dfrac{1}{R_2}$
+	- The **effective resistance** is **less than** the **resistance of either resistor**
+	- The **current from the source** is **greater** than the **current through either resistor**
+- **Potential divider** - A circuit used to obtain a smaller p.d. than supplied (or a variable p.d.)
+	- Two types:
+		- Using two resistors connected in series
+			- The point between the resistors is part-way between the total p.d. and $0\ V$, depending on the values of the resistors
+			- If the resistors have equal resistance, the point between the resistors has a p.d. of exactly half the total p.d.
+		- Using one variable resistor
+			- By altering the resistor of the variable resistor, the voltage can become any value between the total p.d. and $0\ V$
+	- The current through the resistors will be constant if their total resistance if constant
+	- The p.d. will be bigger across the bigger resistor
+	- Resistance for two resistors used as a potential divider: $\dfrac{R_1}{R_2}=\dfrac{V_1}{V_2}$
+- Total charge (and current) arriving at any junction in a circuit must equal the charge (and current) leaving the same junction
+- Total current in a parallel circuit: $I=I_1+I_2$
+
+## 19.3 - Electrical safety
+
+- **Electrical Hazards:**
+	- **High Voltage:** High voltage poses a significant risk of electric shock or even death. Proper precautions must be taken to handle and work with high voltage systems safely.
+	- **Overheating:** Electrical components can overheat due to excessive current or poor ventilation, leading to potential fire hazards. Monitoring temperature and ensuring proper cooling are crucial to prevent overheating.
+	- **Water Conductivity:** Water can conduct electricity, creating a dangerous situation if it comes into contact with electrical systems. Keeping electrical components dry and using waterproof enclosures helps mitigate this risk.
+	- **Block Adapter without Fuses:** A block adapter without fuses lacks protection against short circuits or overloads, increasing the risk of electrical fires or damage. Using adapters with built-in fuses provides essential protection.
+- **Safety Methods:**
+	- **Wire Insulation:** Insulating wires helps prevent accidental contact with live electrical parts and reduces the risk of short circuits. Regular inspection and maintenance of insulation are necessary for ongoing safety.
+	- **Multi-way Bar Extensions with Fuses:** Multi-way bar extensions with fuses distribute power safely and protect connected devices from overcurrent. The fuses in these extensions act as a safeguard against electrical faults and potential fires.
+- **Fuse** - An electrical component that breaks the circuit if the current exceeds a certain value
+	- A piece of metal wire that melts when too much current flows through it
+	- Used to stop excessive currents from flowing in the circuit and prevent cables from burning out
+	- The current rating of the fuse should be just above the value of the current that flows when the appliance is operating normally
+	- Needs to be replaced after it melts
+	- Connected in series on the **live wire**
+- **Trip switch** - An electrical component whose switch opens (trips) when a current exceeds a certain value
+	- Alternative to fuse
+	- More modern than fuse
+	- Doesn't need to be replaced after a trip
+- **Short circuit** - When current flows between two bare wires
+- **Earthing** - When the metal casing of an appliance is connected to the **earth wire**
+	- Any bare wires touching it will immediately lose their charge
+	- Reduces the risk of shocks
+- A **mains circuit** consists of:
+	- **Live wire** - Current flows along it
+	- **Neutral wire** - Takes current back to the power supply (the other terminal)
+	- **Earth wire** - Has very low resistance and is the thickest to allow current to flow easily
+- **Double insulation** - When the electric circuit for an electrical appliance is placed inside a case made from an electrical insulator so that it is impossible for a live wire to touch the outer casing
+	- Circuits with double insulation do not require an earth wire

@@ -1,0 +1,66 @@
+- **Light**
+	- Travels in a straight line (transverse wave)
+	- **Real image** - An image that can be captured on a screen
+	- **Virtual image** - An image that cannot be captured on a screen
+		- Since eyes assume that light always travels in a straight line, the light rays reflected by the mirror appear to be behind it
+	- **Reflection**
+		- Occurs when light is reflected off the shiny surface of a mirror
+		- **Incident ray** - The ray of light hitting the mirror
+			- **Angle of incidence ($i$)** - The angle between the incident ray and the normal
+		- **Normal** - The line perpendicular to the surface of the mirror
+		- **Reflected ray** - The ray of light reflecting off the mirror
+			- **Angle of reflection ($r$)** - The angle between the reflected ray and the normal
+		- The **angle of incidence ($i$)** is equal to the **angle of reflection ($r$)**
+		- **Properties of an image formed with reflection:**
+			- **Virtual** - The image produced cannot be captured on a screen
+			- **Same size** - The image formed is the same size as the actual object
+			- **Equidistant** - The image formed appears the same distance between the mirror as the actual object is in front of the mirror
+			- **Laterally inverted** - The image is flipped horizontally (left and right are swapped)
+	- **Refraction**
+		- Occurs when light travels from one medium to another
+		- **Incident ray** - The ray of light hitting the surface
+			- **Angle of incidence ($i$)** - The angle between the incident ray and the normal
+		- **Normal** - The line perpendicular to the surface
+		- **Refracted ray** - The refracted ray of light in the second medium
+			- **Angle of refraction ($r$)** - The angle between the refracted ray and the normal
+		- Light bends at the point it enters/exits a different material
+		- Refraction does not occur when $i=90\degree$
+		- When the **second material is denser than the first material**:
+			- The refracted ray is bent **toward** the normal
+		- When the **second material is rarer than the first material**:
+			- The refracted ray is bent **away** from the normal
+		- Refraction occurs because light travels at different speeds in different materials
+		- **Refractive index** - A measure of how much light bends in a material
+			- **Formula:** $n=\dfrac{\sin i}{\sin r} = \dfrac{\text{Speed of light in air}}{\text{Speed of light in the material}}$
+				- $n$ - Refractive index
+				- $i$ - Angle of incidence
+				- $r$ - Angle of refraction
+			- **Unit:** None
+	- **Total Internal Reflection** - When light is partially or fully reflected during refraction
+		- Occurs when light is traveling from a denser material to a rarer material
+		- When the refracted ray emerges along and parallel to the surface of the material, $i=c$ where $c$ is the **critical angle** of the material
+		- When $i>c$, total internal reflection occurs, and the light ray reflects back into the material
+		- **Critical angle**
+			- **Formula:** $n=\dfrac{1}{c}$
+				- $n$ - Refractive index
+				- $c$ - Critical angle
+		- Light refracts through droplets of water during rain to form a rainbow
+	- **Dispersion** - When light light passes through glass and splits into a spectrum of colours
+		- Different wavelengths (colours) of light refract different amounts, and so, they split up
+		- Red (highest wavelength) refracts the least, violet (lowest wavelength) refracts the most
+		- **Monochromatic light** - Light of a single colour/frequency
+- **Lenses**
+	- Specially shaped pieces of glass that refract light in specific ways
+	- **Effects of lenses:**
+		- **Enlarged** - Image that is larger than the object
+		- **Diminished** - Image that is smaller than the object
+		- **Inverted** - Image that is upside down compared to the object
+		- **Upright** - Image that is the same way up compared to the object
+	- **Focal length** - Distance between the centre of the lens and the **principle focus**
+	- **Converging lens (Convex lens)** - Causes parallel rays to converge at the **principal focus**
+		- **Principle focus** - Point where previously parallel rays converge after passing through a converging lens, after which they diverge
+		- Can be used to make diverging rays parallel again
+		- The thicker the lens, the closer the principle focus to the lens
+	- **Diverging lens (Concave lens)** - Causes parallel rays to diverge from the **principal focus**
+		- **Principle focus** - Point where previously parallel rays converge after passing through a converging lens, after which they diverge
+		- Can be used to make converging rays parallel again

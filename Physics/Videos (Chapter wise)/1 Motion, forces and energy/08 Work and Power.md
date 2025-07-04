@@ -1,0 +1,14 @@
+- **Work done** - Amount of energy transferred
+	- **Formula:** $W=Fd$
+		- $W$ = Work done
+		- $F$ = Force
+		- $d$ = Distance moved by the force
+	- **Unit:** Joules ($J$)
+- **Power** - Rate at which work is done (or energy is transferred)
+	- **Formula:** $P=\dfrac{W}{t}$
+		- $P$ = Power
+		- $W$ = Work done/Energy transferred
+		- $t$ = Time
+	- **Unit:** Watt ($W$)
+	- **Efficiency** - Can be represented with power:
+		- $\text{Efficiency}=\dfrac{\text{Useful power output}}{\text{Total power input}}$

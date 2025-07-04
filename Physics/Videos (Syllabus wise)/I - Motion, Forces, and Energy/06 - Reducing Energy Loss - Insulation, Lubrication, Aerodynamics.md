@@ -1,0 +1,13 @@
+- **Reducing unwanted energy transfers** (for the example of a house)
+	- Reducing heat loss by **convection**
+		- The building is sealed closed
+	- Reducing heat loss by **conduction**
+		- Thick walls with low thermal conductivity
+		- **Cavity walls** - Two layers of bricks with an air gap (cavity) between
+			- Air has low thermal conductivity however, air allows for convection
+			- To stop convection, the gap is filled with **insulating foam** (has lots of isolated air bubbles)
+		- **Double glazing** - Window with two layers of glass with an air gap
+			- Reduces conduction
+	- Reducing heat loss by **friction**
+		- **Lubrication** - Adding a slippery lubricant to a moving part to reduce friction
+		- **Aerodynamics** - Making a moving object streamlined (smoother) to reduce friction against the air at higher speeds

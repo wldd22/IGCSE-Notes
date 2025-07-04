@@ -1,0 +1,15 @@
+- **Ohm's law**
+	- $V = IR$
+	- $\text{potential difference (V)} = \text{current (A)}\times\text{resistance }(\ohm)$
+- Graph plotted of current / potential difference
+	- As **p.d. increases**, **current increases**
+	- **Negative** shows the graph if the **power source is backwards**
+	- $resistance = 1/m$ where m is the **gradient of the graph**
+	- **Straight line** if resistance is **constant** at all voltages
+		- Assuming the temperature is constant (resistance increases with **temperature**)
+	- Filament lamp
+		- Heats up as more voltage is provided, creating light
+		- **Resistance increases** as **voltage increases**
+	- Diode
+		- High resistance in one direction, low resistance in the other
+		- Only allows current to pass in the direction with lower resistance

@@ -1,0 +1,16 @@
+- **Effects of forces on objects**
+	- Forces can change the size and shape of objects
+	- **Elastic** objects return to their original shape when an external force is removed
+	- **Metals** (usually) deform permanently when a force is applied
+- **Springs**
+	- Designed to stretch easily
+	- **Load** - The force (usually weight) stretching the spring
+	- **Extension** - The increased length of the spring when a load is attached
+	- **Hooke's law** - The extension of a spring is proportional to the load applied to it, provided the **limit of proportionality** is not exceeded
+		- **Formula (until the limit of proportionality):** $\text{Spring Constant}(k)=\dfrac{\text{Force}(F)}{\text{Extension}(X)}$
+- **Pressure**
+	- **Formula:** $\text{Pressure}(P)=\dfrac{\text{Force}(F)}{\text{Area}(a)}$
+	- **Unit:** $N/m^2$, $Nm^{-2}$
+	- **Pressure underwater**
+		- Greater than in air, because water is denser than air
+		- **Formula:** $\text{Pressure}(P)=\text{Liquid density}(\rho)\times\text{Gravitational field strength}(G)\times\text{Height}(h)$

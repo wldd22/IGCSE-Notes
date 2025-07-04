@@ -1,0 +1,55 @@
+- **States of matter:**
+	- **Solid**
+		- **Compressible:** No
+		- **Volume:** Fixed volume
+		- **Size:** Fixed shape
+		- **Shape:** Fixed shape
+		- **Particles:**
+			- **Packing:** Very closely packed together in a regular lattice arrangement
+			- **Motion:** Only vibrating around fixed positions
+	- **Liquid**
+		- **Compressible:** No
+		- **Volume:** Fixed volume
+		- **Size:** Not rigid or fixed
+		- **Shape:** Takes shape of container
+		- **Particles:**
+			- **Packing:** Packed close together randomly
+			- **Motion:** Sliding over each other
+	- **Gas**
+		- **Compressible:** Yes
+		- **Volume:** Variable volume
+		- **Size:** Rigid, fixed
+		- **Shape:** Expands to fill container
+		- **Particles:**
+			- **Packing:** Far apart
+			- **Motion:** Moving freely, bouncing off each other and the walls of the container
+- **Changes of state:**
+	- From **solid**
+		- To **liquid**: Melting
+		- To **gas**: Sublimation
+	- From **liquid**
+		- To **solid**: Freezing
+		- To **gas**: Evaporation/Boiling
+	- From **gas**
+		- To **solid**: Deposition
+		- To **liquid**: Condensation
+- **Kinetic theory:**
+	- As particles **heat up**:
+		- They gain more kinetic energy (They move faster)
+	- As particles **cool down**:
+		- They lose kinetic energy (They move slower)
+	- **Absolute zero** - Lowest possible temperature (particles have no kinetic energy)
+		- $-273\degree C$
+	- **Brownian motion** - The random movement of particles in the air or water due to collisions with the fast-moving particles
+- **Temperature:**
+	- The temperature of an object is the average kinetic energy of all its particles
+	- **Celsius ($\degree C$):**
+		- Defined by the melting and boiling points of water ($0\degree C$, $100\degree C$)
+	- **Kelvin ($K$):**
+		- The temperature in Celsius plus $273$, so that absolute zero is $0K$
+- **Boyle's law:**
+	- The **temperature**, **pressure**, and **volume** of a gas all affect each other
+	- **Formula:** $P_1V_1=P_2V_2$ assuming $T$ is constant
+		- $P$ = Pressure
+		- $V$ = Volume
+		- $T$ = Temperature

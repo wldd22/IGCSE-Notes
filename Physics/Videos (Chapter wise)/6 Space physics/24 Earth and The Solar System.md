@@ -1,0 +1,36 @@
+- **Earth's movement**
+	- **Rotation**
+		- The Earth rotates on its own axis
+		- This causes day and night
+	- **Orbit**
+		- The Earth orbits the sun every 365.25 days (approximately)
+		- Earth's axis remains tilted throughout, causing different part of the Earth to have more or less sunlight at different times of years. This results in seasons.
+- **The moon**
+	- Orbits the Earth every 27.5 days
+	- Reflects sunlight
+	- Its position relative to the Earth changes, resulting in varying amounts of sunlight on it
+		- This causes the phases of the moon
+- **The solar system**
+	- **Consists of:**
+		- **The sun**
+			- Keeps the planets and other celestial objects in orbit with a strong gravitational pull
+		- **The eight planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)**
+			- **Inner planets (Mercury, Venus, Earth, Mars)**
+				- Rocky planets
+				- Before the asteroid belt
+			- **Outer planets (Jupiter, Saturn, Uranus, Neptune**
+				- Gas giants
+				- Past the asteroid belt
+			- Planet orbits are **elliptical**
+			- **Eccentricity** - How stretched the ellipse is
+			- **Orbital speed** - Speed a planet moves in orbit around a star
+				- **Formula:** $v=\dfrac{2\pi r}{T}$
+					- $v$ - Average orbital speed
+					- $r$ - **Orbital radius** (The average distance of the planet from the star)
+					- $T$ - **Orbital period** (Time taken for planet to complete one full orbit around the star)
+		- **Dwarf planets**
+		- **Moons that orbit the planets and dwarf planets**
+		- **Asteroids and comets**
+- **Distances in space**
+	- Very large, so large unit is used
+	- **Unit:** $\text{light year}$ (The distance travelled by light in one year)

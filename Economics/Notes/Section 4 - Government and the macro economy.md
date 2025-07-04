@@ -1,0 +1,385 @@
+## Chapter 24 - The role of the government
+
+- **The general role of the government** is to improve the general welfare of its people.
+- The government collects tax revenues in order to fund its expenditure
+- The government operates three roles:
+	- **Local role** - Provides public and merit goods
+		- Rubbish collection
+		- Street lighting
+		- Building libraries, schools, hospitals, and public parks
+	- **National role** - Makes decisions about how to achieve the macroeconomic roles (See [[Section 4 - Government and the macro economy#Chapter 25 - The macroeconomic aims of government||chapter 25]] for more details) using appropriate policies like:
+		- **Fiscal Policy:**
+		    - Government decisions on raising money through taxation and other sources.
+		    - Allocation of the annual budget on welfare, education, healthcare, defence, etc.
+		- **Monetary Policy:**
+		    - Central bank or monetary authority decisions on interest rates and money supply.
+		    - Aims to influence economic activity.
+		- **Supply-Side Policies:**
+		    - Adjustments to minimum wage levels.
+		    - Creation of bodies like a Competition Commission to regulate firm behaviour.
+		    - Focused on promoting economic growth by increasing productive capacity.
+		- **Policies to Protect the Environment:**
+		    - Includes international agreements like the Paris Agreement.
+		    - Aim to address environmental issues and promote sustainability.
+	- **International role**
+		- Manages international trade
+		- **Trading bloc** - Free trade area which also promotes the free movement of factors of production between member countries.
+
+## Chapter 25 - The macroeconomic aims of government
+
+- Governments have 5 main macroeconomic aims:
+- **Economic Growth**
+	- **Definition**
+		- Annual increase in the level of national output
+		- Annual percentage change in GDP (Gross domestic product)
+		- Representation of a long-term expansion in the production capacity of the economy
+		- Outward shift of the production possibility curve (see [[Subjects/Economics/Notes/Section 1 - The basic economic problem#Chapter 4 Production possibility curve|chapter 4]] for more details)
+	- Most practical measure of standards of living
+- **Full employment / Low unemployment**
+	- **Unemployment** - When a person is:
+		- Willing and able to work
+		- Actively seeking employment
+		- Unable to find work
+	- High employment leads to economic growth
+	- **Unemployment rate**: $\frac{N}{T}\times100$ where N is the number of unemployed people and T is the total number of people in the workforce (included employed and unemployed people)
+- **Stable prices / Low inflation**
+	- **Inflation** - Sustained rise in the general price level in an economy
+	- Price of every good or service doesn't rise, rather, average prices rise
+	- Usually, governments set a target rate in order to control economic activity
+	- Not completely bad because higher prices can encourage firms to supply more output
+- **Balance of payments stability**
+	- **Balance of payments** - A financial record of a country's transactions with the rest of the world during a single year.
+		- Includes country's trade in goods and services with other countries.
+		- **Credit items** - Payment received from other countries
+		- **Debit items** - Payment made to other countries
+	- In theory, the balance of payments should balance over time because, a country, like an individual, can only spend what it earns.
+	- **Balance of payments deficit** - Country is uncompetitive in international markets
+	- **Balance of payments surplus** - Country is overcompetitive in international markets
+- **Redistribution of income**
+	- Achieving greater equality in the distribution of income in an economy
+	- Economies face unequitable distribution of income due to the naturally unequal ownership of factors of production in a free market economy
+	- **Taxation** is used to redistribute income
+		- **Progressive taxation** - A type of taxation that charges higher percentage tax as an individual's income rises
+	- Other ways to redistribute income are:
+		- Subsidies
+		- Welfare benefits
+- **Conflicts between aims**
+	- Usually impossible to achieve all five goals at once
+	- Governments may be left with a trade off
+	- The government has to decide which aim is the most important to the economy at a particular time
+	- **Potentials conflicts:**
+		- **Full employment versus stable prices**
+			- When more people are earning more money, firms may raise their prices more causing **demand-pull inflation**.
+			- When more people are employed, firms find it harder to attract skilled labour, leading to wage inflation (**Cost-push inflation**)
+		- **Economic growth versus balance of payments stability**
+			- If economic growth is cause by higher consumption expenditure, it may cause a deficit in the country's balance of payments
+		- **Full employment versus balance of payments stability**
+			- As employment rises, people get wealthier and spend more money on imports causing a deficit in the balance of payments
+		- **Economic growth versus stable prices**
+			- A cut interest rates or an increase in the money supply in order to stimulate economic growth can conflict with inflation causing price instability.
+
+## Chapter 26 - Fiscal policy
+
+- **Government Budget** - The government's financial plans in terms of planned revenues and expenditures
+	- **Balanced budget** - When the government balances its revenues and its spending
+	- **Budget deficit** - When revenues are lower than expenditures
+	- **Budget surplus** - When revenues are greater than expenditures
+- **Tax** - A government levy on income or expenditure
+	- **Direct and indirect taxation**
+		- **Direct tax** - Paid from the income, wealth, or profit of individuals and firms
+		- **Indirect tax** - Expenditure tax imposed on spending on goods and services
+	- **Types of taxation**
+		- **Progressive**
+			- As income rises, the rate of tax imposed rises (tax percentage rises)
+		- **Regressive**
+			- As income rises, the rate of tax imposed falls (tax percentage falls)
+			- Includes taxes that are the same *amount* at any income level (the tax percentage decreases at higher income levels)
+		- **Proportional**
+			- Rate of tax remains constant at any income level
+	- **Principles of taxation**
+		- **Equitable (fair)** - Taxes should be based on the taxpayer's ability to pay
+		- **Economical** - Tax should be easy and cheap to collect
+		- **Convenience** - The method of payment should be convenient to the taxpayer
+		- **Certainty** - The taxpayer should know what, when, where, and how to pay the tax
+		- **Efficiency** - The tax system should attempt to achieve its aims without any undesirable side-effects
+		- **Flexibility** - Taxes should be flexible enough to adapt to a change in the economic environment
+	- **Classification of taxes:**
+
+| Tax               | Definition                                                                                                                                                               |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Income tax        | A direct tax levied on personal incomes - wages, interest, rent, and dividends. In most countries, this is the main source of tax revenues                               |
+| Corporation tax   | A direct tax on the profits of businesses                                                                                                                                |
+| Sales tax         | An indirect tax, such as VAT, charged on an individual's spending                                                                                                        |
+| Excise duties     | Indirect inland taxes imposed on certain goods and services such as alcohol, tobacco, petrol, soft drinks and gambling                                                   |
+| Customs duties    | Indirect cross-border taxes on foreign imports                                                                                                                           |
+| Capital gains tax | A direct tax on the earnings made from investments such as buying shares and private property                                                                            |
+| Inheritance tax   | A direct tax on the transfer of income and wealth such as property when passed on to another person                                                                      |
+| Stamp duty        | A progressive tax paid on the sale of commercial or residential property                                                                                                 |
+| Carbon tax        | A tax imposed on vehicle manufacturers or firms that produce excessive<br>carbon emissions                                                                               |
+| Windfall tax      | A tax charged on individuals and firms that gain an unexpected one-off<br>amount of money, such as a person winning the lottery or a firm gaining<br>from a takeover bid |
+
+- **Fiscal Policy** - The use of taxation and government expenditure to influence the level of economic activity and achieve macroeconomic goals
+	- Taxes can be used to redistribute income and wealth, benefiting less wealthy members of society.
+	- Government spending improves living standards, like building infrastructure (schools, hospitals, roads, etc.).
+- **Fiscal Policy Measures**
+	- **Expansionary Fiscal Policy:**
+	    - Increases government spending and/or lowers taxes to stimulate the economy.
+		- Used to reduce the effects of economic recessions by boosting consumption and investment, reducing unemployment.
+	    - Example: Increase in social security payments or lowering of income taxes.
+	- **Contractionary Fiscal Policy:**
+		- Reduces the level of economic activity by decreasing government spending or raising taxes.
+	    - Aims to reduce inflationary pressures during economic booms.
+	    - Example: Property taxes used to slow down house prices during a housing bubble.
+- **Effects of Fiscal Policy on Macroeconomic Aims:**
+	- **Economic Growth:**
+	    - Capital expenditure on infrastructure boosts investment.
+	    - Lower corporate tax rates attract foreign direct investment (FDI).
+	- **Stable Prices / Low Inflation:**
+	    - Lower taxes and increased productivity keep price levels low.
+	    - Contractionary measures prevent price levels from soaring.
+	  - **Employment:**
+		- Cuts in income tax incentivize people to seek jobs.
+		- Government support for startups can lower unemployment.
+	  - **Balance of Payments Stability:**
+	    - Low tax rates help domestic firms remain competitive, aiding exports.
+	    - Subsidizing industries also improves international competitiveness.
+	  - **Redistribution of Income:**
+		- Progressive taxes and government spending (welfare, education, healthcare) redistribute income effectively.
+
+## Chapter 27 - Monetary policy
+
+- **Definition of Monetary Policy**
+	- The manipulation of interest rates, exchange rates, and the money supply to control the level of spending and investment in the economy.
+	- Used to affect macroeconomic objectives such as inflation, unemployment, and economic growth.
+	- The central bank typically oversees these policies.
+- **Monetary Policy Measures:**
+	- **Changes in Interest Rates:**
+		- The primary tool to control economic activity.
+		- Higher rates discourage borrowing and encourage saving, reducing overall spending.
+		- Lower rates encourage borrowing and spending, boosting economic activity.
+	- **Changes in the Money Supply:**
+	    - Increasing or decreasing the money supply affects consumption and investment.
+	    - For example, allowing banks to lend more stimulates economic growth.
+	- **Changes in Exchange Rates:**
+	    - Exchange rates impact the domestic money supply as purchasing foreign goods requires converting currencies.
+- **Types of Monetary Policy:**
+	- **Expansionary (Loose) Monetary Policy:**
+	    - Lowers interest rates to boost economic activity by making borrowing cheaper and increasing disposable income.
+	    - Encourages households and firms to spend and invest more.
+	- **Contractionary (Tight) Monetary Policy:**
+	    - Increases interest rates to reduce inflation by curbing excessive spending.
+	    - Can reduce economic growth and employment in the long term.
+- **Effects of Monetary Policy on Macroeconomic Aims:**
+	- **Economic Growth:**
+	    - Lower interest rates decrease borrowing costs, encouraging consumption and investment.
+	    - Less saving leads to higher demand and growth.
+	- **Full Employment / Low Unemployment:**
+	    - Economic growth from lower interest rates tends to create more jobs.
+	- **Stable Prices / Low Inflation:**
+	    - Higher interest rates control inflation by reducing demand, while lower rates boost economic output without driving up prices.
+	- **Balance of Payments Stability:**
+	    - A lower exchange rate improves international competitiveness, boosting exports.
+- **Limitations of Monetary Policy:**
+	- There can be time lags before interest rate changes take effect, making the outcome uncertain.
+	- Consumer and business confidence also play a role in economic activity, so monetary policy alone might not be sufficient.
+	- Higher interest rates can deter foreign investment and reduce production capacity.
+
+## Chapter 28 - Supply-side policy
+
+- **Supply-side policies** - Long-term measures to increase the productive capacity of the economy, leading to an outward shift of the production possibility curve.
+	- Supply-side policies improve the quality and/or quantity of factors of production
+	- **Examples:**
+		- **Education and training** - Improving education and training results in a workforce with better skills, productivity, flexibility, and mobility.
+		- **Labour market reforms** - Reducing or removing: the power of trade unions, unemployment benefits, minimum wages.
+		- **Lower direct taxes** - Reducing tax on worker income to create more incentive
+		- **Deregulation** - Reduction or removal of barriers of entry.
+		- **Improving incentives to work** - Reducing taxes on worker income, reducing unemployment benefits, etc.
+		- **Improving incentives to invest** - Using tax incentives and subsidies encourage firms to invest.
+		- **Privatisation** - Selling government assets (like properties and businesses) to private individuals and firms to be run more efficiently.
+- **Effects on macroeconomic aims**
+	- **Economic growth** - Supply-side policies, like investment in education and corporate tax cuts, increase the economy's productive capacity, fostering long-term growth.
+	- **Full employment/Low unemployment** - Increasing productive capacity creates jobs, while policies like training reduce frictional and structural unemployment.
+	- **Stable prices/Low inflation** - Supply-side measures boost productivity, preventing excessive price rises and avoiding demand-pull inflation caused by demand-side policies.
+	- **Balance of payments stability** - Higher productivity enhances international competitiveness, increasing export earnings and improving the balance of payments.
+	- **Redistribution of income** - Policies such as education investment and lower basic income tax rates benefit low-income earners, increasing their disposable income and spending potential.
+
+## Chapter 29 - Economic growth
+
+- Definition of **economic growth**
+	- Annual increase in the level of national output
+	- Annual percentage change in GDP
+- **GDP (Gross domestic product)** (Also called **nominal GDP**) - A measure of the monetary value of goods and services produced within a country for a given period of time, usually one year.
+	- Formula:
+		- $GDP=C+I+G+(X-M)$
+		- $C=\text{Consumption expenditure}$
+			- Total private household consumption in the country
+		- $I=\text{Investment expenditure}$
+		- $G=\text{Government spending}$
+		- $X=\text{Export earnings}$
+		- $M=\text{Import expenditure}$
+	- **Real GDP** - Nominal GDP adjusted for inflation
+	- **GDP per head (or GDP per capita)** - The GDP of a country divided by its population
+- **Business cycle (or trade cycle)** - Describes the fluctuations in the economic activity of a country over time, creating a long-term trend of economic growth in the economy
+	- Shown on a graph (GDP / time)
+	- **Trend** - The trend line shows the overall change in GDP over time
+	- **Peak** - GDP is at its highest level
+		- Unemployment is low
+		- Consumer and business confidence are high
+	- **Recession** - GDP falls for two consecutive quarters (6 months)
+		- Decline in consumption, investment, and net exports
+		- **Causes:**
+			- Higher level of unemployment
+			- Higher interest rates (discourages investment, encourages saving)
+			- Greater uncertainty in the economy
+			- Lower rates of disposable income (fall in consumer spending)
+			- Lower levels of government expenditure
+			- Decline in the demand for exports
+			- Lower levels of consumer and business confidence
+	- **Slump (or trough)** - Lowest point of a recession
+		- High unemployment
+		- Low consumption, investment, and net export earnings
+	- **Recovery** - GDP starts to rise after a slump
+		- Rising consumption, investment, and net export earnings
+		- Leads to employment opportunities in the long run
+	- **Boom** - GDP rises for two consecutive quarters (6 months)
+		- Level of economic activity rises
+		- Caused by any combination of an increase in consumption, investment, government spending, and net export earnings.
+- **Economic growth**
+	- **Causes:**
+		- Factor endowments (Quality and quantity of factors of production0
+		- Labour force (Size, skills, and mobility of the workforce)
+		- Labour productivity
+		- Investment expenditure
+	- **Positive consequences:**
+		- Improved standards of living
+		- Higher levels of employment
+		- Tax revenues
+	- **Negative consequences:**
+		- Environmental consequences
+		- Risk of inflation
+		- Inequalities in income and wealth
+		- Resource repletion
+	- **Policies to increase economic growth:**
+		- Fiscal policy (see [[Section 4 - Government and the macro economy#Chapter 26 - Fiscal policy|chapter 26]])
+		- Monetary policy (see [[Section 4 - Government and the macro economy#Chapter 27 - Monetary policy|chapter 27]])
+		- Supply-side policies (see [[Section 4 - Government and the macro economy#Chapter 28 - Supply-side policy|chapter 28]])
+
+## Chapter 30 - Employment and unemployment
+
+- **Employment** - The use of factors of production in the economy (usually labour)
+- **Full employment/Low unemployment as a macroeconomic aim** (see [[Section 4 - Government and the macro economy#Chapter 25 - The macroeconomic aims of government|chapter 25]]):
+	- Raises standards of living for the average person
+	- Promotes economic growth
+	- Increases tax revenues
+	- Welfare benefits are decreased
+	- Prevents **brain drain** (when highly skilled workers leave the country in search of job opportunities elsewhere)
+	- Reduces income and wealth inequalities
+- **Unemployment** - Occurs when people of working age are both willing and able to work but cannot find employment
+- **Full employment** - Everyone in an economy who is willing and able to work has a job
+- **Employment patterns** (as the economy develops):
+	- **Employment sector** - Primary sector workforce decreases overall and tertiary sector workforce increases
+	- **Delayed entry to the workforce** - More people spend more time studying for tertiary sector jobs and the average age of employees entering the workforce rises
+	- **Ageing population** - The average age of the population increases (due to longer life expectancy and lower birth rates) so firms are forced to hire more older employees
+	- **Formal sector employment** - More workers shift from informal employment to formal employment
+		- **Formal employment** - Workers pay income tax and contribute to the economy's GDP
+	- **Female participation rates** - More women are active in the labour force
+	- **Public sector employment** - Decline in worker force in the public sector
+	- **Flexible working patterns** - Firms offer more flexible working patterns (like working from home, part-time jobs, and flexible working hours)
+- **Measuring unemployment**
+	- Two methods:
+		- **Claimant count** - Counts the number of people receiving unemployment benefits
+			- People can only claim unemployment benefits if they can prove that they are actively looking for full-time employment
+		- **Labour force survey (LFS)** - Uses the ILO’s standardised household-based survey to collect work-related statistics. (**ILO - International labour organisation**)
+			- Unemployment measure is based on people who are:
+				- Willing to work, but unable to find employment
+				- Actively seeking work (i.e. they have looked for a job in the last 4 weeks)
+				- Able to start work within the next 2 weeks
+				- Going to start a new job within the next 2 weeks
+	- **Unemployment rate** - Measure of the percentage of a country’s workforce that is out of employment.
+		- **Formula**
+			- $\dfrac{\text{Number of unemployed people}}{\text{Total workforce}}\times100$
+- **Types of unemployment:**
+	- **Frictional unemployment** - Transitional unemployment which occurs when people change jobs or are in-between jobs
+	- **Structural unemployment** - The demand for products produced in a particular industry continually falls, causing firms to downscale and fire employees
+		- Usually due to foreign competition
+	- **Cyclic unemployment** (or demand-deficient unemployment) - Unemployment caused by a lack of demand
+		- Causes a fall in national income
+		- Most severe type of unemployment as it can affect every industry in the economy
+- **Consequences of unemployment:**
+	- Unemployed individuals may suffer from mental-health disorders, other health problems, and in extreme cases homelessness and possibly suicide
+	- The family and friends of unemployed individuals may have to pay for their expenses leading to lower disposable income and possible disagreements
+	- Mass unemployment could lead to poverty, falling house prices (hence asset values), and increased crime rates
+	- Lower levels of consumer spending, investment, and firm profits, possibly leading to business failures and bankruptcy
+	- The government has to pay more overall for welfare benefits
+	- A higher proportion of taxpayer money is used for welfare benefits and so the government faces an opportunity cost
+	- The economy is less internationally competitive
+- **Policies to reduce unemployment:**
+	- Fiscal policy (see [[Section 4 - Government and the macro economy#Chapter 26 - Fiscal policy|chapter 26]])
+	- Monetary policy (see [[Section 4 - Government and the macro economy#Chapter 27 - Monetary policy|chapter 27]])
+	- Protectionist measures (see [[Section 6 - International trade and globalisation#Chapter 38 - Foreign exchange rates|chapter 38]])
+	- Supply-side policies (see [[Section 4 - Government and the macro economy#Chapter 28 - Supply-side policy|chapter 28]])
+		- Examples:
+			- Investment in education and training
+			- Reduction in trade union powers
+			- Incentives for firms to train and hire more employees
+			- Reducing welfare benefits
+
+## Chapter 31 - Inflation and deflation
+
+- **Inflation** - The sustained rise in the general level of prices of goods and services over time
+	- Average price level rises
+	- Reduces the value of money
+	- Reduces the spending power of individuals
+	- **Hyperinflation** - Very high rates of inflation that are out of control, causing average prices in the economy to rise very rapidly
+- **Deflation** - The sustained fall in the general price level in an economy over time (negative inflation rate)
+	- **Benign deflation** (or non-threatening deflation) - Deflation caused by higher supply of goods and services
+		- Increases the productive capacity of the economy
+		- Drives down the general price level of goods and services
+		- Increasing national income
+	- **Malign deflation** (or harmful deflation) - Deflation caused by demand for goods and services falling
+		- Often due to economic recession and/or rising levels of unemployment
+- **Consumer price index (CPI)** - Weighted index of consumer prices in the economy over time
+	- Used to measure the cost of living for an average household and find the inflation rate
+	- Measures price changes of a representative basket of goods and services (consumed by an average household)
+	- Applies statistical weights to each item to include the relative importance of the average household's expenditure
+		- Based on the proportion of an average household’s spending on the items in the representative basket of goods and services
+	- Changes in the CPI represent changes in the cost of living for the average household in the economy
+	- Used for international comparison of inflation rates
+	- **Calculating CPI step-by-step:**
+		- **Define the base year** - Assign the base year a CPI value of 100. This serves as the benchmark for price comparisons.
+		- **Select a representative basket** - Identify goods and services that reflect typical household spending patterns.
+		- **Collect price data** - Gather monthly prices for the items in the basket.
+		- **Calculate the price index** - Divide the current basket price by the base year basket price, then multiply by 100 to obtain the CPI.
+		- **Apply statistical weights** - Assign weights to each item in the basket to reflect its importance in household spending. Multiply each item's price index by its weight.
+		- **Calculate the weighted CPI** - Sum the weighted indices of all items to obtain the overall CPI.
+		- **Determine the inflation rate** - Calculate the percentage change in the CPI over a given time period to measure inflation.
+- **Causes of inflation and deflation:**
+	- **Cost-push inflation** - Inflation caused by higher costs of production, thus increasing the general price level
+	- **Demand-pull inflation** - Inflation caused by higher levels of demand in the economy, thus increasing the general price level
+	- **Imported inflation** - Inflation caused by higher import prices, increasing costs of production and thus causing domestic inflation.
+	- **Increases in the money supply or easier access to credit** (such as loans and credit cards)
+- **Consequences of inflation:**
+	- **Menu costs** - Catalogues, price lists, and menus need to updated to reflect price changes
+	- **Consumers** - The purchasing power of consumers goes down due to the lower value of money
+	- **Shoe leather costs** - Customers waste time and energy looking for better deals to save money
+	- **Savers** - Interest received when saving money, if unchanged, decreases due to inflation
+	- **Lenders** - Money lent out to borrowers decreases in value when returns
+	- **Borrowers** - Value of the money returned is less than the value of the money borrowed
+	- **Fixed income earners** - Fixed income decreased in value due to inflation (i.e. the real income falls)
+	- **Low income earners** - Are affected severely by inflation due to them having a high price elasticity of demand
+	- **Exporters** - The international competitiveness of an economy tends to fall due to domestic inflation
+	- **Importers** - Imports are more expensive due to the lower purchasing power of money
+	- **Employees** - Workers are likely to demand higher wages due to the decreasing value of money
+		- **Wage-price spiral** - Trade unions negotiate higher wages to keep income in line with inflation, inadvertently causing more inflation
+	- **Employers** - The value of money is uncertain and return on investment is lower (due to higher costs of production)
+- **Consequences of deflation:**
+	- **Unemployment** - Deflation reduces demand for goods and services, leading to job losses
+	- **Bankruptcies** - Deflation lowers sales and profits, causing many firms to go bankrupt
+	- **Wealth Effect** - Falling profits during deflation decrease share prices and shareholder wealth
+	- **Debt Effect** - Deflation raises the real cost of debts, reducing confidence in consumers and businesses
+	- **Government Debt** - Economic decline during deflation reduces tax revenue and increases government borrowing needs
+	- **Consumer Confidence** - Deflation lowers consumer confidence, delaying purchases and worsening the economy
+- **Policies to control inflation and deflation:**
+	- Fiscal policy (see [[Section 4 - Government and the macro economy#Chapter 26 - Fiscal policy|chapter 26]])
+	- Monetary policy (see [[Section 4 - Government and the macro economy#Chapter 27 - Monetary policy|chapter 27]])
+	- Supply-side policies (see [[Section 4 - Government and the macro economy#Chapter 28 - Supply-side policy|chapter 28]])

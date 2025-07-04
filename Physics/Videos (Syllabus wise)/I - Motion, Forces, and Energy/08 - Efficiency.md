@@ -1,0 +1,8 @@
+- **Useful energy output** - Energy transferred into the intended form
+- **Wasted/Non-useful energy output** - Energy transferred into an unintended form
+- **Efficiency** - Percentage of the energy supplied transferred into useful output energy
+	- No device is 100% efficient (all devices produce some form of waste energy)
+		- Exception: Devices whose useful energy output form is the same as its wasted energy output form (like electric heaters)
+	- **Formula**
+		- $\text{efficiency} = \dfrac{\text{useful energy output}}{\text{total energy input}}$
+		- $\text{efficiency} = \dfrac{\text{useful power output}}{\text{total power input}}$

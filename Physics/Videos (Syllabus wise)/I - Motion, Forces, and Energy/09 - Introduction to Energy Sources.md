@@ -1,0 +1,12 @@
+- **Energy sources**
+	- **Non-renewable** - Natural gas, coal, oil, nuclear
+	- **Renewable** - Solar, wind, hydro electric, tidal, geothermal, biofuels
+- **Energy usage**
+	- **Transport**
+		- Cars, planes, trains, etc
+		- Relies primarily on petrol, diesel, kerosene, coal, electricity, etc
+	- **Domestic**
+		- Cooking, heating
+		- Relies primarily on natural gas, electricity, coal, etc
+- **Electricity** isn't renewable or non-renewable
+- **Electricity sources** - Coal, gas, nuclear, etc

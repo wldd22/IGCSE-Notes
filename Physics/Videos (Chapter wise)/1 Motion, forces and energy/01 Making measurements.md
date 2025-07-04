@@ -1,0 +1,41 @@
+- Four quantities to measure:
+	- **Length (or distance)**
+		- Usually using ruler
+		- **Measuring wire:**
+			- Wire must be straightened against ruler
+			- The start should be at 0cm
+			- Ruler must be properly calibrated
+		- **Measuring paper thickness:**
+			- Measure a stack of n papers, where n is large (example: 500)
+			- Divide the thickness measured by n
+		- **Base Unit:** Metre ($m$)
+	- **Volume**
+		- **Measuring regular shapes:**
+			- Requires one, two, or three values of the shape (side length of cube, radius of sphere)
+		- **Measuring irregular (non-buoyant) shapes:**
+			- Using water displacement method
+			- Measuring cylinder is partially filled with water
+			- Object is submerged
+			- Difference in measuring cylinder volume is calculated
+		- **Base Unit:** Metre cubed ($m^3$)
+	- **Mass**
+		- Using weighing scale
+		- **Base Unit:** Gram ($g$)
+	- **Density**
+		- **Formula:** $\text{Density} = \dfrac{\text{Mass} (m)}{\text{Volume} (v)}$
+		- **Density of water:** $1gcm^{-3}$, $1000kgm^{-3}$
+		- **Unit:** Unit of mass / Unit of volume (examples: $kg/m^3$, $gcm^{-3}$)
+	- **Time**
+		- Using stopwatch (can be analogue or digital)
+		- **Units (Not using SI naming):**
+			- 1 day = 24 hours
+			- 1 hour = 60 seconds
+			- 1 second = 1000 milliseconds
+- **SI Unit naming**
+	- **Kilo** ($1000$) - $k\_$
+	- Hecto ($100$) - $h\_$
+	- Deca ($10$) - $dc\_$
+	- **Base** ($1$) - $\_$
+	- Deci ($0.1$) - $d\_$
+	- **Centi** ($0.01$) - $c\_$
+	- **Milli** ($0.001$) - $m\_$

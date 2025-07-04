@@ -1,0 +1,67 @@
+**Playlist:** https://www.youtube.com/playlist?list=PLVh1WhJIOLQKDkSTcscf_5CVDSEdk7WHe
+
+- **Metals:**
+	- Form positive ions by losing electrons (due to less valence electrons)
+	- Elements with more shells are more reactive
+	- **Physical properties**
+		- **Metallic bonding** (strong)
+		- Malleable (ability to make into sheets)
+		- Ductile (ability to make into wires)
+		- Lustrous (Shiny)
+		- Sonorous (Create ringing sound)
+		- Heat and electricity conductors
+		- High melting and boiling points
+	- **Structure**
+		- Giant grid of atoms arranged in regular pattern (lattice)
+		- Outer shell electrons are shared between all atoms in the metal
+		- Contains a sea of delocalised electrons (they can carry electricity and heat)
+- **Transition metals:**
+	- Have all properties of metals
+	- Can form more than one ion
+	- Ions are often coloured
+	- Very good **catalysts** (substances which increase the rate of a chemical reaction without participating in it)
+- **Non-metals:**
+	- Form negative ions or don't form ions
+	- **Physical properties**
+		- Dull
+		- Brittle (easily break)
+		- Low melting and boiling points
+		- Poor conductors of electricity
+		- Lower density
+- **Bonding**
+	- **Ionic bonding** - Metals with non-metals
+	- **Covalent bonding** - Non-metals with non-metals
+	- **Metallic bonding** - Metals with metals
+- **Alloys**
+	- Mixture of two or more metals (can also be made by mixing a metal and non-metal)
+	- Two elements usually have different sized atoms
+		- Disrupts the arrangement
+		- Prevents layers sliding over each other
+		- Makes the alloy harder (than pure metal)
+- **Reactivity**
+	- **Measured by:**
+		- Violence of reaction
+		- Speed of reaction
+		- Temperature change during reaction (metal samples must have same mass and surface area for comparison)
+		- **Displacement reactions**
+	- **Reactivity series** (Descending order \*Non-metals included for convenience)
+		- $K$ - Potassium
+		- $Na$ - Sodium
+		- $Ca$ - Calcium
+		- $Mg$ - Magnesium
+		- $Al$ - Aluminium
+		- $C$ - Carbon*
+		- $Zn$ - Zinc
+		- $Fe$ - Iron
+		- $H$ - Hydrogen*
+		- $Cu$ - Copper (Usually doesn't react at all)
+		- $Ag$ - Silver (Usually doesn't react at all)
+		- $Au$ - Gold (Almost never reacts)
+	- $\text{Metal}+\text{Acid}\longrightarrow\text{Salt}+\text{Water}$
+	- $\text{Metal}+\text{Water}\longrightarrow\text{Metal Hydroxide}+\text{Hydrogen}$ (Only occurs with the most reactive metals)
+	- **Displacement reactions**
+		- More reactive metals can displace less reactive metals
+		- **Examples:**
+			- $Mg+FeSO_4\longrightarrow MgSO_4+Fe$
+			- $Cu+FeSO_4\longrightarrow Cu+FeSO_4$ (No reaction)
+		- Can be used to extract less reactive metals from their compounds (like metal oxide) using more reactive metals

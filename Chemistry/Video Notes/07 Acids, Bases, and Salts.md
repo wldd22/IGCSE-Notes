@@ -1,0 +1,147 @@
+## Part 1/3 (https://www.youtube.com/watch?v=8QoBtDeREW0)
+
+- **pH Scale** - Number that shows how acidic or basic a substance is
+	- 0-2 - Strong acid
+	- 3-6 - Weak acid
+	- 7 - Neutral (Usually water)
+	- 8-11 - Weak base
+	- 12-14 - Strong base
+- **Proton** - $H^+$ ion
+- **Acids** - Substances that release hydrogen ions ($H^+$) when dissolved in water, resulting in a pH less than 7
+	- Hydrogen ions make the solution acidic
+	- Aqueous solutions of acids contain $H^+$ ions
+	- Characteristics can be described based on the reactions with:
+		- **Metals**
+			- $\text{Acid}+\text{Metal}\longrightarrow \text{Salt}+\text{Hydrogen (g)}$
+			- Example: $2HCl + Zn \longrightarrow ZnCl_2 + H_2$
+		- **Carbonates**
+			- $\text{Acid}+\text{Carbonate}\longrightarrow \text{Salt}+\text{Water}+\text{Carbon Dioxide}$
+			- Example: $2HNO_3 + CaCO_3 \longrightarrow Ca(NO_3)_2 + H_2O + CO_2$
+		- **Bases** - Neutralisation
+	- **Proton donors** (give away protons/hydrogen ions)
+	- **Dissociation** - Breaking apart of molecules into ions
+	- **Strong acids** - Acid that completely dissociates in an aqueous solution
+		- Example: $HCl \longrightarrow H^++Cl^-$
+	- **Weak acids** - Acid that partially dissociates in an aqueous solution
+		- Example: $CH_3COOH \longrightleftharpoons H^++CH_3COO^-$
+	- A higher concentration of hydrogen ions, leads to a stronger acid and a lower pH
+- **Bases** - Substances that release hydroxide ions ($OH^-$) when dissolved in water, resulting in a pH greater than 7
+	- Hydroxide ions make the solution basic
+	- Aqueous solutions of bases contain $OH^-$ ions
+	- Usually oxides or hydroxides of metals
+	- **Alkalis** - Bases that are soluble in water
+	- Characteristics can be described based on the reactions with:
+		- **Ammonium Salts**
+			- $\text{Base}+\text{Ammonium Salt}\longrightarrow \text{Salt}+\text{Water}+\text{Ammonia (g)}$
+			- Example: $2KOH + (NH_4)_2SO_4 \longrightarrow K_2SO_4 + 2H_2O + 2NH_3$
+		- **Acids** - Neutralisation
+	- **Proton accepters** (take in protons/hydrogen ions)
+	- A higher concentration of hydroxide ions, leads to a stronger base and a higher pH
+- **Indicators** - Used to determine whether a substance is acidic or basic
+	- **Litmus**
+		- **Acid** - Blue litmus paper turns red
+		- **Base** - Red litmus paper turns blue
+	- **Thymolphthalein**
+		- **Acid** - Remains colourless
+		- **Base** - Turns from colourless to blue
+	- **Methyl Orange**
+		- **Acid** - Turns from orange to red
+		- **Base** - Turns from orange to yellow
+	- **Universal Indicator**
+		- Turns a colour based on how acidic or basic a solution is
+		- Can measure any value on the pH scale
+		- **Colours:
+			- **Strong acid** - Red
+			- **Weak acid** - Yellow
+			- **Neutral** - Green (Water)
+			- **Weak base** - Blue
+			- **Strong base** - Purple
+- **Neutralisation reaction**
+	- $\text{Acid}+\text{Base}\longrightarrow \text{Salt}+\text{Water}$
+	- Example: $H_2SO_4 + 2KOH \longrightarrow K_2SO_4 + 2H_2O$
+	- Example: $NaOH + HCl \longrightarrow NaCl + H_2O$
+	- **Neutralisation:** $H^+(aq)+OH^-(aq) \longrightarrow H_2O(l)$
+		- Acid provides hydrogen ions
+		- Base provides hydroxide ions
+
+## Part 2/3 (https://www.youtube.com/watch?v=OOsWwmejp0I)
+
+- **Oxides** - Compounds made when metals or non-metals combine with oxygen (Examples: $CO_2$, $CaO$)
+	- **Acidic oxides** - Usually formed by non-metals (Examples: $SO_2$, $CO_2$)
+		- $\text{Acidic Oxide} + \text{Alkali} \longrightarrow \text{Salt} + \text{Water}$ (Neutralisation)
+			- Example: $CO_2+2NaOH\longrightarrow Na_2CO_3+H_2O$
+	- **Basic oxides** - Usually formed by metals (Examples: $CuO$, $CaO$)
+		- $\text{Basic Oxide} + \text{Acid} \longrightarrow \text{Salt} + \text{Water}$ (Neutralisation)
+			- Example: $CaO+2HCl\longrightarrow CaCl_2+H_2O$
+	- **Amphoteric oxides** - Oxides that can neutralise with both acids and bases (Examples: $Al_2O_3$, $ZnO$)
+		- $\text{Amphoteric Oxide} + \text{Acid or Base} \longrightarrow \text{Salt} + \text{Water}$
+		- Examples:
+			- $ZnO+2HCl\longrightarrow ZnCl_2+H_2O$
+			- $ZnO+2NaOH\longrightarrow Na_2ZnO_2+H_2O$
+- **Salts** - Compounds typically formed when the hydrogen ion of an acid is replaced by a metal ion or another positive ion
+- **Preparing soluble salts** - Reacting an acid with:
+	- **An alkali by titration**
+		- **Preparation:**
+			- Measure a specific volume of an alkali into a conical flask using a pipette
+			- Add a few drops of indicator to the alkali
+			- Gradually add acid from a burette until the indicator changes colour (neutralisation)
+			- Record the volume of acid used
+				- Repeat the experiment without the indicator, using the recorded volume of acid
+		- **Separation:**
+			- Heat the resulting neutralised solution in an evaporating basin to partially evaporate the water
+			- Allow the solution to cool and crystallise
+		- **Purification:**
+			- Drain the excess solution and allow the crystals to dry
+		- **Example:** $NaOH(aq)+HCl(aq)\longrightarrow NaCl(aq)+H_2O(l)$
+	- **Excess metal**
+		- **Preparation:**
+			- Add excess metal to the acid in a beaker
+			- The metal dissolves, and bubbles of hydrogen gas come out
+			- Allow the reaction to continue until no more gas is produced (All acid has reacted)
+		- **Separation:**
+			- Filter the mixture to remove any unreacted metal
+		- **Purification:**
+			- Evaporate the filtered solution to obtain the pure salt
+		- **Example:** $Zn(s)+H_2SO_2(aq)\longrightarrow ZnSO_4(aq)+H_2(g)$
+	- **Excess insoluble base**
+		- **Preparation:**
+			- Add excess of the insoluble base to the acid in a beaker
+			- Stir and heat the mixture until no more of the base dissolves
+		- **Separation:**
+			- Filter the mixture to remove any unreacted base
+		- **Purification:**
+			- Evaporate the filtered solution to obtain the pure salt
+		- **Example:** $CuO(s)+H_2SO_4(aq)\longrightarrow CuSO_4(aq)+H_2O(l)$
+	- **Excess insoluble carbonate**
+		- **Preparation:**
+			- Add an excess of the insoluble carbonate to the acid in a beaker
+			- Stir and heat the mixture until no more of the carbonate dissolves
+		- **Separation:**
+			- Filter the mixture to remove any unreacted carbonate
+		- **Purification:**
+			- Evaporate the filtered solution to obtain the pure salt
+		- **Example:** $CuCO_3(s)+H_2SO_4(aq)\longrightarrow CuSO_4(aq)+H_2O(l)+CO_2(g)$
+
+## Part 3/3 (https://www.youtube.com/watch?v=HJNkOarDgEg)
+
+- **Preparing insoluble salts**
+	- **Precipitation** - Two soluble salts are reacted to form an insoluble salt that precipitates out of the solution
+	- **Preparation:**
+		- Separately dissolve known amounts of the two soluble salts in distilled water in separate beakers
+		- Mix the two solutions together. The insoluble salt will precipitate out of the solution as a solid
+	- **Separation:**
+		- Filter the mixture to separate the solid insoluble salt (precipitate) from the liquid solution (filtrate)
+	- **Purification:**
+		- Wash the precipitate with distilled water to remove any remaining soluble impurities
+		- Dry the purified precipitate in an oven
+	- **Example:** $BaCl_2(aq)+Na_2SO_4(aq)\longrightarrow BaSO_4(s)+2NaCl(aq)$
+- **Solubility rules**
+	- All sodium, potassium, and ammonium salts are soluble
+	- All nitrates are soluble
+	- All chlorides except silver and lead chloride are soluble
+	- All sulphates except barium, calcium and lead sulphate are soluble
+	- Sodium, potassium, and ammonium carbonates are soluble but all other carbonates are insoluble
+	- Sodium, potassium, and ammonium hydroxides are soluble and calcium hydroxide is partially soluble but all other hydroxides are insoluble
+- **Anhydrous** - Substance containing no water
+- **Hydrated** - Substance that is chemically combined with water
+- **Water of crystallisation** - Water molecules present in hydrated crystals

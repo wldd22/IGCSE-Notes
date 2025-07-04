@@ -1,0 +1,111 @@
+## Chapter 32 - Living standards
+
+- **Standard of living** - Social and economic wellbeing of individuals in a country at a particular point in time
+- Two main measures:
+	- **GDP per capita (or person)**
+		- Relatively easy to calculate
+		- Higher GDP means more money for people to spend on products
+		- Uses real GDP (see [[Section 4 - Government and the macro economy#Chapter 29 - Economic growth|chapter 29]]) so that inflation is taken into account
+		- Real GDP doesn't take into account population size (Example: China will have a higher GDP than Luxembourg simply because it has a higher population)
+		- GDP per capita is real GDP divided by the population
+	- **Human Development Index (HDI)**
+		- Incorporates three dimensions:
+			- **Healthcare** - Measures life expectancy
+			- **Education** - Measures mean years of schooling
+			- **Income levels** - Measures GDP
+		- Composite index (Uses several indicators)
+		- Disadvantages:
+			- Ignores qualitative factors (like gender inequality and human rights)
+			- Doesn't take into account income distribution
+			- Ignores environmental issues (like pollution and resource depletion)
+			- Ignores cultural differences
+- **Factors that affect living living standards:**
+	- **Productivity levels** - Higher skilled and experienced workers earn higher salaries and therefore higher standards of living
+	- **Role of governments** - Governments may use taxes to redistribute income
+	- **Size of population** - Includes population density and population demographics
+	- **Distribution of national income** - Government expenditure doesn't always improve living standards (for example: miliary spending)
+	- **Regional differences** - The average income in different parts of a country varies
+	- **General price level** - Inflation usually leads to lower standards of living
+	- **Level of education** - More education usually leads to higher income and therefore higher living standards
+	- **Level of freedom** - Civil liberties, political rights, religious freedom, and economic rights
+
+## Chapter 33 - Poverty
+
+- **Poverty** - Condition where a person lacks adequate income and wealth to sustain a basic standard of living
+	- Creates social and economic problems (like bad health, higher death rate, high crime rate, etc)
+	- Two types:
+		- **Absolute poverty** - Extreme outright poverty
+			- Income entirely spent on minimal amounts of food, clothing, and shelter
+			- Income lower than the **income threshold (or poverty line)** - Usually $1.25 per day
+		- **Relative poverty** - Lower standard of living in comparison to an average member of society
+			- Comparative measure of poverty
+			- Relative standard of living to the average person in the country
+	- **Causes:**
+		- **Unemployment** - Unemployed people have no stable source of income
+		- **Low wages**
+		- **Illness** - Lower life expectancy usually causes poorer countries
+		- **Age** - The dependant population is unable to work or to work as efficiently
+		- **Poor healthcare**
+		- **Low literacy rates** - Less educated individuals earn less and are more likely to be in poverty
+		- **High population growth** - Less resources for each individual
+		- **Poor infrastructure** - Reduces overall standards of living
+		- **Low foreign direct investment (FDI)** - Amount of investment from other countries
+		- **High public debt** - Government debt makes it harder for them to improve standards of living since they have to repay loans
+		- **Reliance on primary sector output** - Usually have lower prices and profit margins
+		- **Corruption and instability**
+	- **Policies to reduce poverty:**
+		- **Promoting economic growth** - Expansionary policies encourage consumer spending and eventually create more jobs
+		- **Improving education** - More educated people can get better jobs
+		- **Providing more generous state benefits** - Welfare benefits (like unemployment benefit, elderly pensions, and child benefits) to give people more money to sustain themselves
+		- **Using progressive taxation** - Improves the income distribution of the country
+		- **Introducing (or increasing) a national minimum wage** - Increases incentive to work and people can have a steady source of income
+
+## Chapter 34 - Population
+
+- **Population** - Number of inhabitants in a country
+- **Population growth** - Rate of change in the size of a country's population
+	- $\text{Birth rate} - \text{Death rate} + \text{Net migration rate}$
+	- **Birth rate** - Number of live births per thousand of the population in a year
+		- **Fertility rate** - Average number of births per woman
+		- **Replacement fertility rate** - Number of children the average woman must have to maintain a stable population size
+	- **Death rate** - Number of deaths per thousand of the population in a year
+	- **Net migration rate** - The difference between the immigration and emigration rate
+		- $\text{Net migration rate}=\text{Immigration} - \text{Emigration}$
+		- If positive: **Net immigration**
+		- If negative: **Net emigration**
+	- **Reasons for different rates**
+		- **Birth rate** - Higher birth rate increases population growth
+		- **Death rate** - Higher death rate decreases population growth
+		- **Net migration rate** - High net immigration rate increases population growth
+- **Population size**
+	- **Optimum population** - Output of goods and services per head is maximised
+	- **Underpopulation** - Too many resources for the population size
+	- **Overpopulation** - Too few resources for the population size
+- **Population distribution** - The composition and structure of a country's population
+	- **Demographics** - The study of population distribution and trends in the composition of a population
+	- Types:
+		- **Gender distribution** - Ratio of males to females in the population
+		- **Age distribution** - Number of people in different age groups
+		- **Dependency ratio** - Ratio between the number of people not in the labour force to the number of people in active paid employment
+			- $\text{Dependency ratio}=\dfrac{\text{Dependent population}}{\text{Working population}}$
+			- **Dependent population** - Ages 0-14 and 65+
+				- Also includes full-time students and unemployed people
+	- **Changing size and structure of the population impact:**
+		- **Consumers** - Demand for specific products vary based on population trends
+		- **Firms** - Demand and supply of labour changes long-term
+		- **The government** - Could earn more tax revenue or be pressured to pay more welfare benefits
+		- **The economy** - More pressure on scarce resources possibly leading to higher imports
+		- **The natural environment** - Non-renewable resources are depleted and more infrastructure is required for larger populations
+
+## Chapter 35 - Differences in economic development between countries
+
+- **Economic development** - The increase in the standard of living within a country
+	- Considers both quantitative and qualitative variables
+	- **Factors affecting economic development**
+		- Income
+		- Productivity
+		- Population growth
+		- Size of primary, secondary, and tertiary sectors
+		- Saving and investment
+		- Education
+		- Healthcare
